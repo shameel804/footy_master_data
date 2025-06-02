@@ -1,6 +1,6 @@
 [
     {
-        "question": "Who was the first President of the United States?",
+        "q": "Who was the first President of the United States?",
         "o": [
             "George Washington",
             "Thomas Jefferson",
@@ -10,7 +10,7 @@
         "ansIndex": 0
     },
     {
-        "question": "Who was the second President of the United States?",
+        "q": "Who was the second President of the United States?",
         "o": [
             "George Washington",
             "Thomas Jefferson",
@@ -20,7 +20,7 @@
         "ansIndex": 2
     },
     {
-        "question": "Who was the third President of the United States?",
+        "q": "Who was the third President of the United States?",
         "o": [
             "George Washington",
             "Thomas Jefferson",
@@ -30,7 +30,7 @@
         "ansIndex": 1
     },
     {
-        "question": "Who was the fourth President of the United States?",
+        "q": "Who was the fourth President of the United States?",
         "o": [
             "George Washington",
             "Thomas Jefferson",
@@ -40,7 +40,7 @@
         "ansIndex": 3
     },
     {
-        "question": "Who was the fifth President of the United States?",
+        "q": "Who was the fifth President of the United States?",
         "o": [
             "George Washington",
             "Thomas Jefferson",
@@ -50,7 +50,7 @@
         "ansIndex": 2
     },
     {
-        "question": "Who was the sixth President of the United States?",
+        "q": "Who was the sixth President of the United States?",
         "o": [
             "George Washington",
             "Thomas Jefferson",
@@ -60,7 +60,7 @@
         "ansIndex": 3
     },
     {
-        "question": "Who was the seventh President of the United States?",
+        "q": "Who was the seventh President of the United States?",
         "o": [
             "Andrew Jackson",
             "Martin Van Buren",
@@ -70,7 +70,7 @@
         "ansIndex": 0
     },
     {
-        "question": "Who was the eighth President of the United States?",
+        "q": "Who was the eighth President of the United States?",
         "o": [
             "Andrew Jackson",
             "Martin Van Buren",
@@ -80,7 +80,7 @@
         "ansIndex": 1
     },
     {
-        "question": "Who was the ninth President of the United States?",
+        "q": "Who was the ninth President of the United States?",
         "o": [
             "Andrew Jackson",
             "Martin Van Buren",
@@ -90,7 +90,7 @@
         "ansIndex": 2
     },
     {
-        "question": "Who was the tenth President of the United States?",
+        "q": "Who was the tenth President of the United States?",
         "o": [
             "Andrew Jackson",
             "Martin Van Buren",
