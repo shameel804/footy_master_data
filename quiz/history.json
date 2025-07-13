@@ -2,57 +2,52 @@
     {
         "q": "Who was the first President of the United States?",
         "o": [
-            "George Washington",
+            "Answer 1",
             "Thomas Jefferson",
             "Abraham Lincoln",
             "John Adams"
-        ],
-        "ansIndex": 0
+        ]
     },
     {
         "q": "Who was the second President of the United States?",
         "o": [
+            "Answer 2",
             "George Washington",
             "Thomas Jefferson",
-            "John Adams",
             "James Madison"
-        ],
-        "ansIndex": 2
+        ]
     },
     {
         "q": "Who was the third President of the United States?",
         "o": [
-            "George Washington",
+            "Answer 3",
             "Thomas Jefferson",
             "John Adams",
             "James Madison"
-        ],
-        "ansIndex": 1
+        ]
     },
     {
         "q": "Who was the fourth President of the United States?",
         "o": [
-            "George Washington",
+            "Answer 4",
             "Thomas Jefferson",
             "John Adams",
             "James Madison"
-        ],
-        "ansIndex": 3
+        ]
     },
     {
         "q": "Who was the fifth President of the United States?",
         "o": [
-            "George Washington",
+            "Answer 5",
             "Thomas Jefferson",
             "James Monroe",
             "John Quincy Adams"
-        ],
-        "ansIndex": 2
+        ]
     },
     {
         "q": "Who was the sixth President of the United States?",
         "o": [
-            "George Washington",
+            "Answer 6",
             "Thomas Jefferson",
             "James Monroe",
             "John Quincy Adams"
@@ -62,41 +57,37 @@
     {
         "q": "Who was the seventh President of the United States?",
         "o": [
-            "Andrew Jackson",
+            "Answer 7",
             "Martin Van Buren",
             "William Henry Harrison",
             "John Tyler"
-        ],
-        "ansIndex": 0
+        ]
     },
     {
         "q": "Who was the eighth President of the United States?",
         "o": [
-            "Andrew Jackson",
+            "Answer 8",
             "Martin Van Buren",
             "William Henry Harrison",
             "John Tyler"
-        ],
-        "ansIndex": 1
+        ]
     },
     {
         "q": "Who was the ninth President of the United States?",
         "o": [
-            "Andrew Jackson",
+            "Answer 9",
             "Martin Van Buren",
             "William Henry Harrison",
             "John Tyler"
-        ],
-        "ansIndex": 2
+        ]
     },
     {
         "q": "Who was the tenth President of the United States?",
         "o": [
-            "Andrew Jackson",
+            "Answer 10",
             "Martin Van Buren",
             "William Henry Harrison",
             "John Tyler"
-        ],
-        "ansIndex": 3
+        ]
     }
 ]
