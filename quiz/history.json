@@ -1,93 +1,2702 @@
 [
     {
-        "q": "Who was the first President of the United States?",
+        "q": "Which country is credited with creating modern football (soccer)?",
         "o": [
-            "Answer 1",
-            "Thomas Jefferson",
-            "Abraham Lincoln",
-            "John Adams"
+            "England",
+            "Brazil",
+            "Germany",
+            "France"
         ]
     },
     {
-        "q": "Who was the second President of the United States?",
+        "q": "In which year was FIFA (Fédération Internationale de Football Association) founded?",
         "o": [
-            "Answer 2",
-            "George Washington",
-            "Thomas Jefferson",
-            "James Madison"
+            "1904",
+            "1914",
+            "1928",
+            "1898"
         ]
     },
     {
-        "q": "Who was the third President of the United States?",
+        "q": "Which country won the first ever FIFA World Cup?",
         "o": [
-            "Answer 3",
-            "Thomas Jefferson",
-            "John Adams",
-            "James Madison"
+            "Uruguay",
+            "Brazil",
+            "Argentina",
+            "Italy"
         ]
     },
     {
-        "q": "Who was the fourth President of the United States?",
+        "q": "Which tournament is considered the oldest football competition in the world?",
         "o": [
-            "Answer 4",
-            "Thomas Jefferson",
-            "John Adams",
-            "James Madison"
+            "FA Cup",
+            "Copa Libertadores",
+            "UEFA Champions League",
+            "Copa del Rey"
         ]
     },
     {
-        "q": "Who was the fifth President of the United States?",
+        "q": "Who is known as the 'Father of Modern Football' for helping standardize the rules?",
         "o": [
-            "Answer 5",
-            "Thomas Jefferson",
-            "James Monroe",
-            "John Quincy Adams"
+            "Ebenezer Cobb Morley",
+            "Jules Rimet",
+            "Sir Stanley Rous",
+            "William McGregor"
         ]
     },
     {
-        "q": "Who was the sixth President of the United States?",
+        "q": "Which club is recognized as the world's oldest existing football club?",
         "o": [
-            "Answer 6",
-            "Thomas Jefferson",
-            "James Monroe",
-            "John Quincy Adams"
-        ],
-        "ansIndex": 3
-    },
-    {
-        "q": "Who was the seventh President of the United States?",
-        "o": [
-            "Answer 7",
-            "Martin Van Buren",
-            "William Henry Harrison",
-            "John Tyler"
+            "Sheffield FC",
+            "Notts County",
+            "Queens Park",
+            "Cray Wanderers"
         ]
     },
     {
-        "q": "Who was the eighth President of the United States?",
+        "q": "Which nation hosted the first ever FIFA World Cup?",
         "o": [
-            "Answer 8",
-            "Martin Van Buren",
-            "William Henry Harrison",
-            "John Tyler"
+            "Uruguay",
+            "Italy",
+            "Brazil",
+            "France"
         ]
     },
     {
-        "q": "Who was the ninth President of the United States?",
+        "q": "Which legendary football player was known as the 'Black Pearl'?",
         "o": [
-            "Answer 9",
-            "Martin Van Buren",
-            "William Henry Harrison",
-            "John Tyler"
+            "Pelé",
+            "Diego Maradona",
+            "Garrincha",
+            "George Weah"
         ]
     },
     {
-        "q": "Who was the tenth President of the United States?",
+        "q": "Who introduced the concept of professional football leagues?",
         "o": [
-            "Answer 10",
-            "Martin Van Buren",
-            "William Henry Harrison",
-            "John Tyler"
+            "England",
+            "Germany",
+            "Italy",
+            "Spain"
+        ]
+    },
+    {
+        "q": "What was the name of the original set of rules used in early modern football?",
+        "o": [
+            "Laws of the Game",
+            "Cambridge Rules",
+            "Sheffield Rules",
+            "Harrow Rules"
+        ]
+    },
+    {
+        "q": "Who was the FIFA president responsible for organizing the first World Cup?",
+        "o": [
+            "Jules Rimet",
+            "João Havelange",
+            "Sepp Blatter",
+            "Stanley Rous"
+        ]
+    },
+    {
+        "q": "Which South American country has hosted the FIFA World Cup twice?",
+        "o": [
+            "Brazil",
+            "Argentina",
+            "Uruguay",
+            "Chile"
+        ]
+    },
+    {
+        "q": "Which club was the first to win the UEFA Champions League (then European Cup)?",
+        "o": [
+            "Real Madrid",
+            "AC Milan",
+            "Benfica",
+            "Ajax"
+        ]
+    },
+    {
+        "q": "Which footballer was famously known as the 'Hand of God' goal scorer?",
+        "o": [
+            "Diego Maradona",
+            "Pelé",
+            "Zinedine Zidane",
+            "Ronaldinho"
+        ]
+    },
+    {
+        "q": "Which country won the FIFA World Cup as hosts in 1998?",
+        "o": [
+            "France",
+            "Germany",
+            "Italy",
+            "Argentina"
+        ]
+    },
+    {
+        "q": "Which legendary Dutch player introduced 'Total Football' to the world?",
+        "o": [
+            "Johan Cruyff",
+            "Marco van Basten",
+            "Ruud Gullit",
+            "Frank Rijkaard"
+        ]
+    },
+    {
+        "q": "Which African club competition was launched in 1964?",
+        "o": [
+            "CAF Champions League",
+            "CAF Confederation Cup",
+            "CAF Super Cup",
+            "African Cup Winners’ Cup"
+        ]
+    },
+    {
+        "q": "Which football tournament inspired the creation of the World Cup?",
+        "o": [
+            "Olympic Games football tournament",
+            "Copa América",
+            "British Home Championship",
+            "FA Cup"
+        ]
+    },
+    {
+        "q": "Which club did Pelé famously play for in the United States?",
+        "o": [
+            "New York Cosmos",
+            "LA Galaxy",
+            "Chicago Fire",
+            "Miami Fusion"
+        ]
+    },
+    {
+        "q": "Which stadium is known for hosting the 1950 World Cup final with a record crowd?",
+        "o": [
+            "Maracanã Stadium",
+            "Wembley Stadium",
+            "San Siro",
+            "Camp Nou"
+        ]
+    },
+    {
+        "q": "Which country won the European Championship in 1960, the first edition of the tournament?",
+        "o": [
+            "Soviet Union",
+            "France",
+            "Spain",
+            "Italy"
+        ]
+    },
+    {
+        "q": "Which English football club was a founding member of both the Football League and the Premier League?",
+        "o": [
+            "Aston Villa",
+            "Liverpool",
+            "Manchester United",
+            "Arsenal"
+        ]
+    },
+    {
+        "q": "Which club did George Best spend most of his career with?",
+        "o": [
+            "Manchester United",
+            "Real Madrid",
+            "Celtic",
+            "Rangers"
+        ]
+    },
+    {
+        "q": "What innovation was introduced at the 1970 FIFA World Cup for the first time?",
+        "o": [
+            "Substitutes allowed",
+            "Penalty shootouts",
+            "Goal-line technology",
+            "VAR"
+        ]
+    },
+    {
+        "q": "Which Italian club has the nickname 'The Old Lady'?",
+        "o": [
+            "Juventus",
+            "AC Milan",
+            "Inter Milan",
+            "Roma"
+        ]
+    },
+    {
+        "q": "Which World Cup is known for the 'Miracle of Bern'?",
+        "o": [
+            "1954",
+            "1930",
+            "1966",
+            "1974"
+        ]
+    },
+    {
+        "q": "Which country won the first ever Copa América?",
+        "o": [
+            "Uruguay",
+            "Brazil",
+            "Argentina",
+            "Chile"
+        ]
+    },
+    {
+        "q": "Which footballer won three FIFA World Cups as a player?",
+        "o": [
+            "Pelé",
+            "Maradona",
+            "Zidane",
+            "Ronaldo"
+        ]
+    },
+    {
+        "q": "Which club did Franz Beckenbauer famously play for?",
+        "o": [
+            "Bayern Munich",
+            "Borussia Dortmund",
+            "Hamburger SV",
+            "Schalke 04"
+        ]
+    },
+    {
+        "q": "Which German club has won the most Bundesliga titles?",
+        "o": [
+            "Bayern Munich",
+            "Borussia Dortmund",
+            "Hamburg",
+            "Werder Bremen"
+        ]
+    },
+    {
+        "q": "Which country hosted the first UEFA European Championship?",
+        "o": [
+            "France",
+            "Spain",
+            "Italy",
+            "Germany"
+        ]
+    },
+    {
+        "q": "Which team did Michel Platini represent when he scored 9 goals in Euro 1984?",
+        "o": [
+            "France",
+            "Italy",
+            "West Germany",
+            "Portugal"
+        ]
+    },
+    {
+        "q": "Who was the first African player to win the FIFA World Player of the Year award?",
+        "o": [
+            "George Weah",
+            "Samuel Eto'o",
+            "Didier Drogba",
+            "Roger Milla"
+        ]
+    },
+    {
+        "q": "Which club has won the most UEFA Champions League titles?",
+        "o": [
+            "Real Madrid",
+            "AC Milan",
+            "Liverpool",
+            "Bayern Munich"
+        ]
+    },
+    {
+        "q": "Which football legend was nicknamed 'O Rei' meaning 'The King'?",
+        "o": [
+            "Pelé",
+            "Maradona",
+            "Cruyff",
+            "Beckenbauer"
+        ]
+    },
+    {
+        "q": "Who captained Italy to World Cup victory in 2006?",
+        "o": [
+            "Fabio Cannavaro",
+            "Francesco Totti",
+            "Andrea Pirlo",
+            "Gianluigi Buffon"
+        ]
+    },
+    {
+        "q": "Which club did Zinedine Zidane play for before joining Real Madrid?",
+        "o": [
+            "Juventus",
+            "Bordeaux",
+            "Barcelona",
+            "AC Milan"
+        ]
+    },
+    {
+        "q": "What year did the English Premier League officially begin?",
+        "o": [
+            "1992",
+            "1989",
+            "1990",
+            "1994"
+        ]
+    },
+    {
+        "q": "Who was the first player to score a hat-trick in a World Cup final?",
+        "o": [
+            "Geoff Hurst",
+            "Pelé",
+            "Gerd Müller",
+            "Just Fontaine"
+        ]
+    },
+    {
+        "q": "Which team did Johan Cruyff coach to their first Champions League title in 1992?",
+        "o": [
+            "Barcelona",
+            "Ajax",
+            "PSV Eindhoven",
+            "Feyenoord"
+        ]
+    },
+    {
+        "q": "Which club did Alfredo Di Stéfano play for most famously?",
+        "o": [
+            "Real Madrid",
+            "Barcelona",
+            "River Plate",
+            "AC Milan"
+        ]
+    },
+    {
+        "q": "What year did women’s football officially become part of the Olympics?",
+        "o": [
+            "1996",
+            "1988",
+            "2000",
+            "1992"
+        ]
+    },
+    {
+        "q": "Which player was famously banned from football for life due to match-fixing in the 1990s?",
+        "o": [
+            "Paolo Rossi",
+            "Diego Maradona",
+            "Eric Cantona",
+            "Andrés Escobar"
+        ]
+    },
+    {
+        "q": "Which World Cup saw the introduction of the group stage format used today?",
+        "o": [
+            "1986",
+            "1978",
+            "1990",
+            "1982"
+        ]
+    },
+    {
+        "q": "What is the name of the trophy awarded to the FIFA World Cup winner since 1974?",
+        "o": [
+            "FIFA World Cup Trophy",
+            "Jules Rimet Trophy",
+            "Golden Globe Trophy",
+            "Champion’s Crown"
+        ]
+    },
+    {
+        "q": "Which country was disqualified from the 1994 World Cup qualifiers due to war?",
+        "o": [
+            "Yugoslavia",
+            "Iran",
+            "South Africa",
+            "Colombia"
+        ]
+    },
+    {
+        "q": "Which two clubs contested the first ever official international club competition in 1960?",
+        "o": [
+            "Real Madrid vs Peñarol",
+            "Benfica vs Santos",
+            "Ajax vs Boca Juniors",
+            "Milan vs River Plate"
+        ]
+    },
+    {
+        "q": "Which footballer was awarded the 1986 FIFA World Cup Golden Ball?",
+        "o": [
+            "Diego Maradona",
+            "Michel Platini",
+            "Karl-Heinz Rummenigge",
+            "Zico"
+        ]
+    },
+    {
+        "q": "Who is the only goalkeeper to win the Ballon d'Or?",
+        "o": [
+            "Lev Yashin",
+            "Dino Zoff",
+            "Gordon Banks",
+            "Manuel Neuer"
+        ]
+    },
+    {
+        "q": "Which team won the first ever Olympic gold medal in football?",
+        "o": [
+            "Great Britain",
+            "Uruguay",
+            "France",
+            "Germany"
+        ]
+    },
+    {
+        "q": "Which country is known for inventing the term 'soccer'?",
+        "o": [
+            "England",
+            "United States",
+            "Australia",
+            "Canada"
+        ]
+    },
+    {
+        "q": "Which player holds the record for most goals in a single World Cup tournament?",
+        "o": [
+            "Just Fontaine",
+            "Miroslav Klose",
+            "Ronaldo (Brazil)",
+            "Gerd Müller"
+        ]
+    },
+    {
+        "q": "Which was the first African country to host the FIFA World Cup?",
+        "o": [
+            "South Africa",
+            "Egypt",
+            "Nigeria",
+            "Morocco"
+        ]
+    },
+    {
+        "q": "Which club did Ronaldinho join after leaving Paris Saint-Germain?",
+        "o": [
+            "Barcelona",
+            "AC Milan",
+            "Manchester United",
+            "Chelsea"
+        ]
+    },
+    {
+        "q": "What major rule change was introduced in the 1992–93 football season?",
+        "o": [
+            "Back-pass rule",
+            "Golden goal rule",
+            "VAR technology",
+            "Offside trap"
+        ]
+    },
+    {
+        "q": "Who was the captain of the 'Invincibles' Arsenal team of 2003–04?",
+        "o": [
+            "Patrick Vieira",
+            "Thierry Henry",
+            "Dennis Bergkamp",
+            "Sol Campbell"
+        ]
+    },
+    {
+        "q": "Which manager won the UEFA Champions League three times with Real Madrid in the 2010s?",
+        "o": [
+            "Zinedine Zidane",
+            "Carlo Ancelotti",
+            "José Mourinho",
+            "Vicente del Bosque"
+        ]
+    },
+    {
+        "q": "What was the first World Cup to feature penalty shootouts?",
+        "o": [
+            "1982",
+            "1978",
+            "1986",
+            "1990"
+        ]
+    },
+    {
+        "q": "Which club introduced the concept of shirt sponsorship in top-level football?",
+        "o": [
+            "Eintracht Braunschweig",
+            "Real Madrid",
+            "Manchester United",
+            "Juventus"
+        ]
+    },
+    {
+        "q": "Which Brazilian club did Zico famously play for?",
+        "o": [
+            "Flamengo",
+            "Santos",
+            "Palmeiras",
+            "São Paulo"
+        ]
+    },
+    {
+        "q": "Which footballer was famously nicknamed 'Il Divin Codino' or 'The Divine Ponytail'?",
+        "o": [
+            "Roberto Baggio",
+            "Francesco Totti",
+            "Andrea Pirlo",
+            "Alessandro Del Piero"
+        ]
+    },
+    {
+        "q": "Which country won the World Cup in 1958, marking its first victory?",
+        "o": [
+            "Brazil",
+            "Germany",
+            "Uruguay",
+            "Italy"
+        ]
+    },
+    {
+        "q": "Which club has the nickname 'Los Blancos'?",
+        "o": [
+            "Real Madrid",
+            "Barcelona",
+            "Valencia",
+            "Atletico Madrid"
+        ]
+    },
+    {
+        "q": "What was the name of the football competition that existed before the UEFA Champions League?",
+        "o": [
+            "European Cup",
+            "Inter-Cities Fairs Cup",
+            "Mitropa Cup",
+            "Cup Winners' Cup"
+        ]
+    },
+    {
+        "q": "Who was the top scorer of the 1994 FIFA World Cup?",
+        "o": [
+            "Hristo Stoichkov",
+            "Romário",
+            "Roberto Baggio",
+            "Jürgen Klinsmann"
+        ]
+    },
+    {
+        "q": "Which famous Dutch manager pioneered 'Total Football' as a coach as well as a player?",
+        "o": [
+            "Rinus Michels",
+            "Johan Cruyff",
+            "Louis van Gaal",
+            "Guus Hiddink"
+        ]
+    },
+    {
+        "q": "Which African footballer won the Ballon d'Or in 1995?",
+        "o": [
+            "George Weah",
+            "Samuel Eto’o",
+            "Didier Drogba",
+            "Abedi Pele"
+        ]
+    },
+    {
+        "q": "What was the first year that goal-line technology was used in a World Cup?",
+        "o": [
+            "2014",
+            "2010",
+            "2018",
+            "2006"
+        ]
+    },
+    {
+        "q": "Which country did Germany defeat in the 2014 World Cup final?",
+        "o": [
+            "Argentina",
+            "Brazil",
+            "Netherlands",
+            "France"
+        ]
+    },
+    {
+        "q": "Which club won the first-ever FIFA Club World Cup in 2000?",
+        "o": [
+            "Corinthians",
+            "Real Madrid",
+            "Manchester United",
+            "Boca Juniors"
+        ]
+    },
+    {
+        "q": "Which country won the first FIFA Women’s World Cup?",
+        "o": [
+            "United States",
+            "Norway",
+            "Germany",
+            "China"
+        ]
+    },
+    {
+        "q": "Which European club did David Beckham join after leaving Manchester United?",
+        "o": [
+            "Real Madrid",
+            "AC Milan",
+            "Paris Saint-Germain",
+            "Bayern Munich"
+        ]
+    },
+    {
+        "q": "What was the original name of the English Premier League?",
+        "o": [
+            "FA Premier League",
+            "English Super League",
+            "National First Division",
+            "Football Association League"
+        ]
+    },
+    {
+        "q": "Which player famously missed a crucial penalty in the 1994 World Cup final?",
+        "o": [
+            "Roberto Baggio",
+            "Romário",
+            "Paolo Maldini",
+            "Dunga"
+        ]
+    },
+    {
+        "q": "Which country won the UEFA European Championship in 1992 as a late entry?",
+        "o": [
+            "Denmark",
+            "Germany",
+            "Netherlands",
+            "Italy"
+        ]
+    },
+    {
+        "q": "Which football club has the motto 'Més que un club'?",
+        "o": [
+            "Barcelona",
+            "Real Madrid",
+            "Sevilla",
+            "Athletic Bilbao"
+        ]
+    },
+    {
+        "q": "Which national team did Zinedine Zidane represent?",
+        "o": [
+            "France",
+            "Algeria",
+            "Spain",
+            "Italy"
+        ]
+    },
+    {
+        "q": "Which tournament used the 'Golden Goal' rule for the first time in a final?",
+        "o": [
+            "Euro 1996",
+            "World Cup 1998",
+            "Euro 2000",
+            "Confederations Cup 2003"
+        ]
+    },
+    {
+        "q": "Which footballer was sent off in the 2006 World Cup final for a headbutt?",
+        "o": [
+            "Zinedine Zidane",
+            "Marco Materazzi",
+            "Patrick Vieira",
+            "Fabio Cannavaro"
+        ]
+    },
+    {
+        "q": "Which Brazilian footballer was known as 'The Phenomenon'?",
+        "o": [
+            "Ronaldo Nazário",
+            "Ronaldinho",
+            "Romário",
+            "Kaká"
+        ]
+    },
+    {
+        "q": "Which football club is credited with inventing the concept of numbered jerseys in matches?",
+        "o": [
+            "Arsenal",
+            "Manchester United",
+            "Real Madrid",
+            "Boca Juniors"
+        ]
+    },
+    {
+        "q": "Which national team was the first to withdraw from a World Cup due to political reasons in 1938?",
+        "o": [
+            "Austria",
+            "Spain",
+            "Argentina",
+            "Czechoslovakia"
+        ]
+    },
+    {
+        "q": "Which country’s national football team is nicknamed 'The Clockwork Orange'?",
+        "o": [
+            "Netherlands",
+            "Belgium",
+            "Portugal",
+            "Ivory Coast"
+        ]
+    },
+    {
+        "q": "What is the name of the football lawmaker organization responsible for the rules of the game?",
+        "o": [
+            "IFAB",
+            "FIFA",
+            "UEFA",
+            "IOC"
+        ]
+    },
+    {
+        "q": "Which city hosted the first ever Olympic football tournament in 1900?",
+        "o": [
+            "Paris",
+            "London",
+            "Athens",
+            "Berlin"
+        ]
+    },
+    {
+        "q": "Which club was the first to use floodlights for a competitive evening match?",
+        "o": [
+            "Southampton",
+            "Wolverhampton Wanderers",
+            "Sheffield Wednesday",
+            "Notts County"
+        ]
+    },
+    {
+        "q": "Which country introduced the red and yellow card system used in modern football?",
+        "o": [
+            "England",
+            "Germany",
+            "Italy",
+            "Netherlands"
+        ]
+    },
+    {
+        "q": "Which legendary football manager once said, 'Some people think football is a matter of life and death. I assure you, it's much more serious than that'?",
+        "o": [
+            "Bill Shankly",
+            "Sir Alex Ferguson",
+            "Brian Clough",
+            "Arrigo Sacchi"
+        ]
+    },
+    {
+        "q": "Which national team refused to play in the 1950 World Cup due to a disagreement over wearing boots?",
+        "o": [
+            "India",
+            "North Korea",
+            "China",
+            "Hungary"
+        ]
+    },
+    {
+        "q": "What was the first professional football league in the world?",
+        "o": [
+            "The Football League (England)",
+            "Serie A (Italy)",
+            "La Liga (Spain)",
+            "Bundesliga (Germany)"
+        ]
+    },
+    {
+        "q": "Which country arrived by boat to participate in the first ever FIFA World Cup?",
+        "o": [
+            "Romania",
+            "Germany",
+            "England",
+            "Spain"
+        ]
+    },
+    {
+        "q": "What unusual object was used as a football in early medieval Britain?",
+        "o": [
+            "Animal bladder",
+            "Leather pouch filled with stones",
+            "Inflated pig stomach",
+            "Wrapped bundle of straw"
+        ]
+    },
+    {
+        "q": "Which player is known for scoring in every round of a European Cup campaign, including the final, in 1984?",
+        "o": [
+            "Alan Kennedy",
+            "Marco van Basten",
+            "Michel Platini",
+            "Ian Rush"
+        ]
+    },
+    {
+        "q": "Which club is credited with inventing the modern offside trap strategy?",
+        "o": [
+            "Arsenal",
+            "Inter Milan",
+            "Real Madrid",
+            "Ajax"
+        ]
+    },
+    {
+        "q": "Which footballer played for both the Dutch and Belgian national teams in the early 20th century?",
+        "o": [
+            "Willy de Vos",
+            "Jan Ceulemans",
+            "Frans de Munck",
+            "Piet Keizer"
+        ]
+    },
+    {
+        "q": "Which nation once left the World Cup at halftime due to a dispute over officiating?",
+        "o": [
+            "Peru",
+            "Hungary",
+            "Chile",
+            "Mexico"
+        ]
+    },
+    {
+        "q": "Which football stadium was originally built for greyhound racing before being converted?",
+        "o": [
+            "Wembley Stadium (old)",
+            "Camp Nou",
+            "San Siro",
+            "Stamford Bridge"
+        ]
+    },
+    {
+        "q": "Which goalkeeper once wore a flat cap as part of his regular match attire?",
+        "o": [
+            "Lev Yashin",
+            "Dino Zoff",
+            "Gordon Banks",
+            "Oliver Kahn"
+        ]
+    },
+    {
+        "q": "Which country’s national team was once coached by a poet?",
+        "o": [
+            "Chile",
+            "Italy",
+            "Czechoslovakia",
+            "Argentina"
+        ]
+    },
+    {
+        "q": "What is the oldest surviving international football fixture?",
+        "o": [
+            "England vs. Scotland",
+            "Brazil vs. Uruguay",
+            "Italy vs. France",
+            "Germany vs. Netherlands"
+        ]
+    },
+    {
+        "q": "Which country once qualified for a World Cup without playing a single qualifying match?",
+        "o": [
+            "India",
+            "Denmark",
+            "South Korea",
+            "Sweden"
+        ]
+    },
+    {
+        "q": "Which player received the fastest red card in World Cup history?",
+        "o": [
+            "José Batista",
+            "Zinedine Zidane",
+            "Rigobert Song",
+            "Pepe"
+        ]
+    },
+    {
+        "q": "Which early football law once allowed goalkeepers to handle the ball anywhere in their own half?",
+        "o": [
+            "The 1871 rule",
+            "The dribble-through rule",
+            "The hand-protection law",
+            "The keeper roam clause"
+        ]
+    },
+    {
+        "q": "Which manager famously won the European Cup while holding a full-time job as a school headmaster?",
+        "o": [
+            "Brian Clough",
+            "Jock Stein",
+            "Tony Barton",
+            "Bob Paisley"
+        ]
+    },
+    {
+        "q": "What material were footballs primarily made of in the early 20th century?",
+        "o": [
+            "Vulcanized rubber and leather",
+            "Wood core with wool",
+            "Inflated sheep stomachs",
+            "Cork and feathers"
+        ]
+    },
+    {
+        "q": "Which team once lost a match due to refusing to return to the pitch after halftime?",
+        "o": [
+            "Soviet Union",
+            "Argentina",
+            "Mexico",
+            "Yugoslavia"
+        ]
+    },
+    {
+        "q": "What was unusual about the 1962 World Cup match between Chile and Italy?",
+        "o": [
+            "It involved fistfights and was dubbed the 'Battle of Santiago'",
+            "It was decided by a coin toss",
+            "It was played without a referee for 20 minutes",
+            "The pitch was frozen and unplayable"
+        ]
+    },
+    {
+        "q": "Who was the first footballer to appear on a postage stamp?",
+        "o": [
+            "Pelé",
+            "Bobby Charlton",
+            "Ferenc Puskás",
+            "Garrincha"
+        ]
+    },
+    {
+        "q": "Which club is credited with inventing the modern 4-4-2 formation?",
+        "o": [
+            "Bolton Wanderers",
+            "Ajax",
+            "Celtic",
+            "Benfica"
+        ]
+    },
+    {
+        "q": "Which early football club was founded by a group of church cricketers in 1863?",
+        "o": [
+            "Barnes FC",
+            "Sheffield United",
+            "Derby County",
+            "Everton"
+        ]
+    },
+    {
+        "q": "Which country wore shirts with numbers from 1 to 11 by alphabetical order in the 1982 World Cup, except the goalkeeper?",
+        "o": [
+            "Argentina",
+            "England",
+            "France",
+            "Poland"
+        ]
+    },
+    {
+        "q": "Which football match famously had a dog interrupt play by grabbing the ball and running across the pitch?",
+        "o": [
+            "1962 World Cup Chile vs. Brazil",
+            "1930 Uruguay vs. Peru",
+            "1998 France vs. South Africa",
+            "1986 Argentina vs. South Korea"
+        ]
+    },
+    {
+        "q": "Which team refused to play extra time in a World Cup match, believing the rules didn’t allow it?",
+        "o": [
+            "France",
+            "Mexico",
+            "Romania",
+            "South Korea"
+        ]
+    },
+    {
+        "q": "Which club’s fans once invaded the pitch to sew new goal nets during a match break?",
+        "o": [
+            "Partizan Belgrade",
+            "Galatasaray",
+            "Millwall",
+            "Rangers"
+        ]
+    },
+    {
+        "q": "Which World Cup final featured an anthem mix-up where the winning country’s national anthem wasn’t played?",
+        "o": [
+            "1978 Final - Argentina",
+            "1994 Final - Brazil",
+            "1958 Final - Brazil",
+            "2006 Final - Italy"
+        ]
+    },
+    {
+        "q": "Which historic player used to play barefoot in early training and insisted teammates follow suit?",
+        "o": [
+            "Garrincha",
+            "Ferenc Puskás",
+            "Lev Yashin",
+            "Eusébio"
+        ]
+    },
+    {
+        "q": "Which country scored an own goal just 30 seconds into their own World Cup debut?",
+        "o": [
+            "USA (1998 Women's World Cup)",
+            "China",
+            "North Korea",
+            "Greece"
+        ]
+    },
+    {
+        "q": "Which football rule was originally designed to stop players from permanently camping near the opponent's goal?",
+        "o": [
+            "Offside Rule",
+            "Back-pass Rule",
+            "Indirect Free Kick",
+            "Goalkeeper Zone Limit"
+        ]
+    },
+    {
+        "q": "Which international team used a coin toss to reach the final of a major tournament?",
+        "o": [
+            "Italy (Euro 1968)",
+            "Soviet Union",
+            "Czechoslovakia",
+            "France"
+        ]
+    },
+    {
+        "q": "Which club once had to repaint the pitch lines in the middle of a European match due to heavy snow?",
+        "o": [
+            "Red Star Belgrade",
+            "Celtic",
+            "Spartak Moscow",
+            "Bayern Munich"
+        ]
+    },
+    {
+        "q": "Which country was mistakenly sent a congratulatory telegram by FIFA for winning a match they had actually lost?",
+        "o": [
+            "India",
+            "Honduras",
+            "Bolivia",
+            "Norway"
+        ]
+    },
+    {
+        "q": "Which player scored a goal, got injured celebrating it, and had to be substituted immediately after?",
+        "o": [
+            "Paulo Diogo",
+            "Marco Tardelli",
+            "Alan Shearer",
+            "Antonio Cassano"
+        ]
+    },
+    {
+        "q": "Which stadium was once built with the help of prisoners of war?",
+        "o": [
+            "Stade Vélodrome",
+            "Olympiastadion Berlin",
+            "Maracanã",
+            "Old Trafford"
+        ]
+    },
+    {
+        "q": "Which goalkeeper once saved two penalties in the same World Cup match, both retaken due to encroachment?",
+        "o": [
+            "Brad Friedel",
+            "Sepp Maier",
+            "Claudio Taffarel",
+            "Ricardo Pereira"
+        ]
+    },
+    {
+        "q": "Which country’s national team had to borrow shirts from a local club to play a World Cup match?",
+        "o": [
+            "France",
+            "Uruguay",
+            "Belgium",
+            "Switzerland"
+        ]
+    },
+    {
+        "q": "Which famous club’s original founding members included a Scotsman, a Catalan, a Swiss, and an Englishman?",
+        "o": [
+            "FC Barcelona",
+            "Juventus",
+            "Ajax",
+            "Real Sociedad"
+        ]
+    },
+    {
+        "q": "Which manager was banned from football for allegedly bringing a voodoo priest to curse the opposing team?",
+        "o": [
+            "Lucien Leduc",
+            "Diego Simeone",
+            "Bobby Robson",
+            "Jorge Jesus"
+        ]
+    },
+    {
+        "q": "Which team arrived at a World Cup match in taxis due to a transportation mix-up?",
+        "o": [
+            "Egypt (1934)",
+            "Mexico (1950)",
+            "Scotland (1974)",
+            "Chile (1962)"
+        ]
+    },
+    {
+        "q": "What bizarre incident caused a World Cup qualifier between Barbados and Grenada to feature an own goal strategy?",
+        "o": [
+            "Golden Goal counted double in extra time",
+            "Points system favored draws over wins",
+            "Red cards nullified goals",
+            "Winner decided by corner kicks"
+        ]
+    },
+    {
+        "q": "Which club once fielded a one-armed player who went on to score a hat-trick?",
+        "o": [
+            "Southampton",
+            "Rangers",
+            "Galatasaray",
+            "Partick Thistle"
+        ]
+    },
+    {
+        "q": "Which national team scored a goal that was disallowed because the referee thought the ball had gone through a hole in the net?",
+        "o": [
+            "England (vs. Germany, 1966)",
+            "Argentina (vs. Sweden, 1934)",
+            "South Korea (vs. Portugal, 2002)",
+            "Italy (vs. Spain, 1934)"
+        ]
+    },
+    {
+        "q": "Which football match had to be stopped because bees swarmed the pitch?",
+        "o": [
+            "Tunisia vs. Belgium, 1978",
+            "Ghana vs. Nigeria, 1982",
+            "England vs. Honduras, 2014",
+            "Ivory Coast vs. Egypt, 2006"
+        ]
+    },
+    {
+        "q": "Which club was forced to replay a match because the referee accidentally blew the final whistle too early?",
+        "o": [
+            "Ajax",
+            "Fluminense",
+            "Panathinaikos",
+            "Newcastle United"
+        ]
+    },
+    {
+        "q": "Which player once received a yellow card for celebrating a goal by revealing a Superman T-shirt?",
+        "o": [
+            "Lilian Laslandes",
+            "Robbie Fowler",
+            "Mario Balotelli",
+            "Nani"
+        ]
+    },
+    {
+        "q": "Which stadium’s shadow pattern was blamed for a team’s poor passing accuracy during a World Cup match?",
+        "o": [
+            "Arena da Amazônia",
+            "Stade de France",
+            "Estadio Azteca",
+            "Moses Mabhida Stadium"
+        ]
+    },
+    {
+        "q": "Which team was eliminated from a tournament after winning a match due to an odd group format?",
+        "o": [
+            "Algeria (1982 World Cup)",
+            "South Africa (2010 AFCON)",
+            "Colombia (1993 Copa América)",
+            "Japan (1998 World Cup)"
+        ]
+    },
+    {
+        "q": "Which player famously took his own penalty twice in one shot due to hitting the crossbar and scoring on the rebound?",
+        "o": [
+            "Thierry Henry",
+            "Pelé",
+            "Carlos Tevez",
+            "Wayne Rooney"
+        ]
+    },
+    {
+        "q": "Which team was once punished for fielding too many players with the same last name?",
+        "o": [
+            "South Korea (Asian Cup)",
+            "Brazil (Olympic qualifiers)",
+            "Zambia (AFCON)",
+            "Iran (Friendly Tournament)"
+        ]
+    },
+    {
+        "q": "Which national team wore hand-knitted jerseys in a major international tournament?",
+        "o": [
+            "Norway",
+            "Iceland",
+            "Czechoslovakia",
+            "New Zealand"
+        ]
+    },
+    {
+        "q": "Which early football rule allowed teams to choose between ends or the kickoff if they won the coin toss?",
+        "o": [
+            "Pre-1873 kickoff rule",
+            "1892 tie-break clause",
+            "Original IFAB Rule 2",
+            "Halftime advantage law"
+        ]
+    },
+    {
+        "q": "Which country’s players were punished for winning too heavily in an international match?",
+        "o": [
+            "North Korea (beating Nepal 21–0)",
+            "Brazil (beating Bolivia 10–1)",
+            "Germany (beating San Marino 13–0)",
+            "Iran (beating Maldives 17–0)"
+        ]
+    },
+    {
+        "q": "Which player once missed an open goal after removing his shirt mid-run to celebrate too early?",
+        "o": [
+            "Peter Biaksangzuala",
+            "Mario Gómez",
+            "Antonio Valencia",
+            "Victor Ibarbo"
+        ]
+    },
+    {
+        "q": "Which match was delayed because a team brought the wrong kit color and had to borrow shirts from fans?",
+        "o": [
+            "Cameroon vs. Colombia (1990)",
+            "Argentina vs. Croatia (1998)",
+            "Italy vs. USA (2006)",
+            "England vs. Germany (1970)"
+        ]
+    },
+    {
+        "q": "Which World Cup match saw a goal awarded despite the ball entering through the side netting?",
+        "o": [
+            "Brazil vs. Spain (1986)",
+            "Uruguay vs. Bolivia (1950)",
+            "Italy vs. Mexico (1970)",
+            "France vs. South Korea (2002)"
+        ]
+    },
+    {
+        "q": "Which goalkeeper once scored a headed goal in the last minute to save his team from relegation?",
+        "o": [
+            "Jimmy Glass",
+            "Rogério Ceni",
+            "Peter Schmeichel",
+            "Hans-Jörg Butt"
+        ]
+    },
+    {
+        "q": "Which team lost a championship title on goal difference because their fans invaded the pitch too early?",
+        "o": [
+            "Sheffield Wednesday",
+            "Ajax",
+            "Benfica",
+            "River Plate"
+        ]
+    },
+    {
+        "q": "Which World Cup featured matches where the match ball visibly deflated mid-play due to design flaws?",
+        "o": [
+            "2010 (Jabulani Ball)",
+            "2002 (Fevernova Ball)",
+            "1998 (Tricolore Ball)",
+            "2014 (Brazuca Ball)"
+        ]
+    },
+    {
+        "q": "Which country’s national team was once made up entirely of military officers?",
+        "o": [
+            "Soviet Union (early years)",
+            "Chile",
+            "Nigeria",
+            "Egypt"
+        ]
+    },
+    {
+        "q": "Which player scored a goal that went unnoticed by everyone, including the referee, due to fog?",
+        "o": [
+            "Ronnie Radford",
+            "Geoff Hurst",
+            "Kenny Dalglish",
+            "Marco Tardelli"
+        ]
+    },
+    {
+        "q": "Which referee once mistakenly showed three yellow cards to the same player before sending him off?",
+        "o": [
+            "Graham Poll",
+            "Pierluigi Collina",
+            "Howard Webb",
+            "Carlos Amarilla"
+        ]
+    },
+    {
+        "q": "Which team once fielded their *team bus driver* as a substitute due to a player shortage?",
+        "o": [
+            "Darlington FC",
+            "Port Vale",
+            "Fiorentina",
+            "AS Nancy"
+        ]
+    },
+    {
+        "q": "Which player celebrated a goal by pulling a hidden cell phone from the goalpost and calling someone?",
+        "o": [
+            "Francesco Totti",
+            "Zlatan Ibrahimović",
+            "Ronaldinho",
+            "Cristiano Ronaldo"
+        ]
+    },
+    {
+        "q": "Which referee accidentally scored a goal by deflecting the ball into the net, and it was allowed?",
+        "o": [
+            "Dutch referee in 2019 amateur match",
+            "Swiss referee in 1974 Bundesliga game",
+            "English referee during FA Cup replay",
+            "Brazilian referee in youth tournament"
+        ]
+    },
+    {
+        "q": "Which World Cup game was described by FIFA as 'the dirtiest match in history'?",
+        "o": [
+            "Portugal vs Netherlands (2006)",
+            "Italy vs Chile (1962)",
+            "Argentina vs England (1990)",
+            "Germany vs France (1982)"
+        ]
+    },
+    {
+        "q": "Which national team had a goalkeeper who wore a red tracksuit instead of a kit due to superstition?",
+        "o": [
+            "Soviet Union",
+            "Colombia",
+            "South Korea",
+            "Italy"
+        ]
+    },
+    {
+        "q": "Which player was once red-carded for tackling a pitch invader?",
+        "o": [
+            "Ashley Vickers",
+            "Eric Dier",
+            "Antonio Rudiger",
+            "Carlos Tévez"
+        ]
+    },
+    {
+        "q": "Which football club’s mascot once got sent off by the referee for taunting opponents?",
+        "o": [
+            "Partick Thistle",
+            "Millwall",
+            "Wolverhampton Wanderers",
+            "Leeds United"
+        ]
+    },
+    {
+        "q": "Which team won a match after the opposition walked off in protest of a penalty decision?",
+        "o": [
+            "South Korea (vs. Iran, 1988)",
+            "Turkey (vs. Greece, 1963)",
+            "Argentina (vs. Peru, 1975)",
+            "Cameroon (vs. Ghana, 1982)"
+        ]
+    },
+    {
+        "q": "Which player scored a goal while tying his shoelace — the ball bounced off his foot?",
+        "o": [
+            "Lee Trundle",
+            "Dimitar Berbatov",
+            "Thomas Müller",
+            "Mario Mandžukić"
+        ]
+    },
+    {
+        "q": "Which footballer missed a crucial goal after celebrating too early and watching it hit the post?",
+        "o": [
+            "Arrogant goal miss by Nayim (Zaragoza)",
+            "Cristiano Lucarelli",
+            "Nicklas Bendtner",
+            "Mario Jardel"
+        ]
+    },
+    {
+        "q": "Which footballer once faked his own kidnapping to avoid training?",
+        "o": [
+            "Carlos Kaiser",
+            "Nicolas Anelka",
+            "Adriano",
+            "Mario Balotelli"
+        ]
+    },
+    {
+        "q": "Which team conceded a goal while celebrating their own goal because the other team restarted play?",
+        "o": [
+            "India U23 vs. UAE",
+            "Senegal vs. Tunisia",
+            "Bolivia vs. Argentina",
+            "South Africa vs. Zambia"
+        ]
+    },
+    {
+        "q": "Which goalkeeper deliberately got a red card to avoid playing a politically sensitive match?",
+        "o": [
+            "Ezzaki Badou (Morocco)",
+            "José Luis Chilavert",
+            "Shay Given",
+            "Rinat Dasayev"
+        ]
+    },
+    {
+        "q": "Which player once missed an open goal because the ball got stuck in a mud puddle?",
+        "o": [
+            "Jan Koller",
+            "Fernando Torres",
+            "Diego Forlán",
+            "Paolo Rossi"
+        ]
+    },
+    {
+        "q": "Which club once built a stand with no view of the pitch due to poor planning?",
+        "o": [
+            "Oxford United",
+            "Leyton Orient",
+            "FC Metz",
+            "Dundee FC"
+        ]
+    },
+    {
+        "q": "Which player once received a yellow card for diving — while being tackled by the referee?",
+        "o": [
+            "Timo Werner",
+            "Raheem Sterling",
+            "Thomas Müller",
+            "Angel Di María"
+        ]
+    },
+    {
+        "q": "Which national team once showed up with two identical kits and had to swap with the opponent's away kit?",
+        "o": [
+            "Australia",
+            "Greece",
+            "Nigeria",
+            "Japan"
+        ]
+    },
+    {
+        "q": "Which coach once wore full match kit — including shin guards — while managing from the sidelines?",
+        "o": [
+            "Garth Crooks (as player-manager)",
+            "Rudi Völler",
+            "Diego Maradona",
+            "Alan Pardew"
+        ]
+    },
+    {
+        "q": "Which club’s owner once selected the starting lineup using astrology?",
+        "o": [
+            "FC Lausanne-Sport",
+            "AS Monaco",
+            "Partizan Belgrade",
+            "Galatasaray"
+        ]
+    },
+    {
+        "q": "Which team played in socks only for the second half after their boots were stolen during halftime?",
+        "o": [
+            "Zimbabwe U20s",
+            "Chile B Team",
+            "Malaysia National Team",
+            "Iceland Youth Team"
+        ]
+    },
+    {
+        "q": "Which player was once subbed off just minutes after coming on — because he forgot to remove his earrings?",
+        "o": [
+            "Jody Morris",
+            "Antonio Cassano",
+            "André-Pierre Gignac",
+            "Memphis Depay"
+        ]
+    },
+    {
+        "q": "Which national team’s entire squad was replaced before a match due to food poisoning?",
+        "o": [
+            "Germany (1954 World Cup)",
+            "Russia (Euro 1996)",
+            "Nigeria (2002 World Cup)",
+            "Chile (Copa América 1987)"
+        ]
+    },
+    {
+        "q": "Which team once used a player who later turned out to be **two years older** than the maximum youth age — and already married?",
+        "o": [
+            "Ghana U17",
+            "Qatar U20",
+            "Brazil U21",
+            "Ivory Coast U18"
+        ]
+    },
+    {
+        "q": "Which footballer was sent off after throwing his boot at a referee?",
+        "o": [
+            "Edmundo",
+            "Eric Cantona",
+            "Gennaro Gattuso",
+            "Joey Barton"
+        ]
+    },
+    {
+        "q": "Which club was punished after fans threw a live chicken onto the pitch?",
+        "o": [
+            "Blackburn Rovers",
+            "Crystal Palace",
+            "Millwall",
+            "Wigan Athletic"
+        ]
+    },
+    {
+        "q": "Which team was forced to wear mismatched socks because their kit delivery was incomplete?",
+        "o": [
+            "Venezuela",
+            "North Korea",
+            "Wales",
+            "Indonesia"
+        ]
+    },
+    {
+        "q": "Which player once celebrated a goal by climbing into a garbage bin?",
+        "o": [
+            "Mario Gjurovski",
+            "Nicklas Bendtner",
+            "Edinson Cavani",
+            "Pierre-Emerick Aubameyang"
+        ]
+    },
+    {
+        "q": "Which country once pulled out of a World Cup qualifier because they believed qualifying would anger their gods?",
+        "o": [
+            "Bhutan",
+            "Laos",
+            "Mali",
+            "Solomon Islands"
+        ]
+    },
+    {
+        "q": "Which national team once showed up with an ineligible player and only realized **during** the match?",
+        "o": [
+            "Spain (Euro 1992 qualifiers)",
+            "Uruguay (1974 World Cup)",
+            "Japan (1986 Asian Cup)",
+            "Czech Republic (Euro 2004)"
+        ]
+    },
+    {
+        "q": "Which World Cup featured a team with a shirt sponsor logo — which was **banned mid-tournament** by FIFA?",
+        "o": [
+            "Cameroon (2002)",
+            "South Korea (1994)",
+            "Colombia (1990)",
+            "Saudi Arabia (2006)"
+        ]
+    },
+    {
+        "q": "Which footballer once faked an injury using a ketchup packet to avoid getting subbed?",
+        "o": [
+            "Carlos Kaiser",
+            "Jamie Vardy",
+            "Antonio Cassano",
+            "Dario Dubois"
+        ]
+    },
+    {
+        "q": "Which match was interrupted because a UFO sighting near the stadium caused a panic?",
+        "o": [
+            "Fiorentina vs. Pistoiese, 1954",
+            "Chile vs. Uruguay, 1969",
+            "Russia vs. Sweden, 1997",
+            "Portugal vs. Romania, 1983"
+        ]
+    },
+    {
+        "q": "Which team arrived for a match with their shirts still wet and had to dry them on the pitch?",
+        "o": [
+            "Zambia U20",
+            "Bolivia",
+            "Faroe Islands",
+            "Thailand Women’s National Team"
+        ]
+    },
+    {
+        "q": "Which player once legally changed his name to include his shirt sponsor’s brand?",
+        "o": [
+            "Johan Vonlanthen",
+            "Rodrigo Coca-Cola",
+            "Rivaldo Motorola",
+            "Faustino Asprilla"
+        ]
+    },
+    {
+        "q": "Which football manager once refused to shake hands after a loss, claiming the opponent had 'evil eyes'?",
+        "o": [
+            "Victor Piturca",
+            "Marcelo Bielsa",
+            "Jose Mourinho",
+            "Diego Simeone"
+        ]
+    },
+    {
+        "q": "Which club had a player show up to a press conference wearing a superhero mask?",
+        "o": [
+            "Pachuca",
+            "FC Porto",
+            "Real Betis",
+            "Galatasaray"
+        ]
+    },
+    {
+        "q": "Which referee brought a red and **green** card to a match, using the green one as a warning?",
+        "o": [
+            "Portuguese 3rd Division",
+            "Qatar Stars League",
+            "AFC Cup Final",
+            "Russian Premier League"
+        ]
+    },
+    {
+        "q": "Which international team once **forgot their match boots** and had to borrow from the hosts?",
+        "o": [
+            "Indonesia",
+            "Malta",
+            "Ethiopia",
+            "North Korea"
+        ]
+    },
+    {
+        "q": "Which player was booked for leaving the field to hug his grandmother in the stands after scoring?",
+        "o": [
+            "Nwankwo Kanu",
+            "James Rodríguez",
+            "Hidetoshi Nakata",
+            "Alexis Sánchez"
+        ]
+    },
+    {
+        "q": "Which team once showed up late to a match because they followed Google Maps to the wrong stadium?",
+        "o": [
+            "AS Roma Youth Team",
+            "Estonia National Team",
+            "Nigeria U23",
+            "Partizan Belgrade"
+        ]
+    },
+    {
+        "q": "Which player once wore a jersey with his name misspelled and still scored a hat-trick?",
+        "o": [
+            "Ronaldinho",
+            "Kylian Mbappé",
+            "David Beckham",
+            "Zlatan Ibrahimović"
+        ]
+    },
+    {
+        "q": "Which national team was disqualified from a tournament for showing up late due to traffic?",
+        "o": [
+            "Burundi",
+            "Haiti",
+            "Kuwait",
+            "Myanmar"
+        ]
+    },
+    {
+        "q": "Which club once had their manager accidentally lock himself in the dressing room during the match?",
+        "o": [
+            "Notts County",
+            "Hamburg SV",
+            "Cagliari",
+            "Reading FC"
+        ]
+    },
+    {
+        "q": "Which World Cup match featured a player losing his shorts mid-play but continuing without stopping?",
+        "o": [
+            "Mexico vs. Bulgaria (1994)",
+            "Croatia vs. Japan (2006)",
+            "Italy vs. Austria (1998)",
+            "Argentina vs. South Korea (2010)"
+        ]
+    },
+    {
+        "q": "Which goalkeeper once stopped a penalty with his **face**, unintentionally, and won man of the match?",
+        "o": [
+            "Tim Krul",
+            "David Ospina",
+            "Fabien Barthez",
+            "Jordan Pickford"
+        ]
+    },
+    {
+        "q": "Which player once got stuck celebrating in a pitch-side advertisement board and needed help getting out?",
+        "o": [
+            "Miroslav Klose",
+            "Luis Suárez",
+            "Mario Gómez",
+            "Carlos Vela"
+        ]
+    },
+    {
+        "q": "Which team once scored an own goal **intentionally** to force extra time due to competition rules?",
+        "o": [
+            "Barbados (vs. Grenada, 1994)",
+            "Thailand (vs. Indonesia, 1998)",
+            "Senegal (vs. Cameroon, 2002)",
+            "Algeria (vs. Egypt, 2009)"
+        ]
+    },
+    {
+        "q": "Which player once swapped shirts with the referee at halftime as a joke?",
+        "o": [
+            "George Best",
+            "Mario Balotelli",
+            "Wayne Rooney",
+            "Thomas Brolin"
+        ]
+    },
+    {
+        "q": "Which club replaced its matchday mascot with a robot for an entire season?",
+        "o": [
+            "Reading FC",
+            "Boavista",
+            "Luton Town",
+            "Suwon Bluewings"
+        ]
+    },
+    {
+        "q": "Which team once had to restart a match **the next morning** due to a stadium power outage?",
+        "o": [
+            "Paraguay (Copa América)",
+            "Greece (World Cup qualifiers)",
+            "South Korea (Asian Cup)",
+            "Morocco (Africa Cup of Nations)"
+        ]
+    },
+    {
+        "q": "Which footballer once missed a cup final after accidentally locking himself in his own bathroom?",
+        "o": [
+            "Santiago Cañizares",
+            "Kolo Touré",
+            "Gary Lineker",
+            "David Ginola"
+        ]
+    },
+    {
+        "q": "Which club's stadium once hosted a match where a parrot flew down and landed on the crossbar mid-game?",
+        "o": [
+            "Flamengo",
+            "Panathinaikos",
+            "Club América",
+            "Aston Villa"
+        ]
+    },
+    {
+        "q": "Which World Cup team took *ballroom dance lessons* as part of their pre-tournament training?",
+        "o": [
+            "Romania (1994)",
+            "South Korea (2002)",
+            "Switzerland (2006)",
+            "Japan (1998)"
+        ]
+    },
+    {
+        "q": "Which player once delayed a penalty kick because he was adjusting his hairband?",
+        "o": [
+            "Neymar",
+            "Cristiano Ronaldo",
+            "Héctor Bellerín",
+            "Ricardo Quaresma"
+        ]
+    },
+    {
+        "q": "Which national team used a *fortune teller* to predict their World Cup starting lineup?",
+        "o": [
+            "Ivory Coast",
+            "South Africa",
+            "Peru",
+            "Qatar"
+        ]
+    },
+    {
+        "q": "Which player received a red card after diving into the crowd and accidentally injuring a fan?",
+        "o": [
+            "Paul Gascoigne",
+            "Carlos Tévez",
+            "Arda Turan",
+            "Franck Ribéry"
+        ]
+    },
+    {
+        "q": "Which country’s football association once banned their players from growing beards during qualifiers?",
+        "o": [
+            "Uzbekistan",
+            "North Korea",
+            "Saudi Arabia",
+            "Algeria"
+        ]
+    },
+    {
+        "q": "Which goalkeeper was so superstitious that he insisted on touching all four goalposts before kickoff?",
+        "o": [
+            "Fabien Barthez",
+            "Rene Higuita",
+            "Jens Lehmann",
+            "Bruce Grobbelaar"
+        ]
+    },
+    {
+        "q": "Which manager brought a **shaman** to the training ground to end a club’s losing streak?",
+        "o": [
+            "Harry Redknapp",
+            "Sam Allardyce",
+            "Louis van Gaal",
+            "Slaven Bilić"
+        ]
+    },
+    {
+        "q": "Which match had to be delayed due to a swarm of butterflies covering the pitch?",
+        "o": [
+            "Copa Libertadores match in Argentina",
+            "MLS All-Star game",
+            "FA Cup tie in England",
+            "Euro qualifier in Poland"
+        ]
+    },
+    {
+        "q": "Which national team’s players shaved their heads before a World Cup match for 'intimidation'?",
+        "o": [
+            "Romania (1998)",
+            "Japan (2002)",
+            "Greece (1994)",
+            "Ecuador (2006)"
+        ]
+    },
+    {
+        "q": "Which goalkeeper once made a save with his **backside** after slipping during a penalty?",
+        "o": [
+            "Hans-Jörg Butt",
+            "David De Gea",
+            "Claudio Bravo",
+            "Keylor Navas"
+        ]
+    },
+    {
+        "q": "Which player wore **two different colored boots** — one for passing, one for shooting?",
+        "o": [
+            "Andrey Arshavin",
+            "Ronaldinho",
+            "Kevin-Prince Boateng",
+            "Memphis Depay"
+        ]
+    },
+    {
+        "q": "Which team’s match had to be delayed because the goalkeeper’s **gloves melted** in extreme heat?",
+        "o": [
+            "Iraq U23",
+            "Tunisia",
+            "USA Women’s Team",
+            "India U17"
+        ]
+    },
+    {
+        "q": "Which referee once issued a red card by **mistake**, then took it back by apologizing mid-game?",
+        "o": [
+            "Mark Clattenburg",
+            "Graham Poll",
+            "Howard Webb",
+            "Carlos Velasco Carballo"
+        ]
+    },
+    {
+        "q": "Which player wore a **wig** to hide hair loss during a World Cup — and it fell off mid-match?",
+        "o": [
+            "Rudi Völler",
+            "Wayne Rooney",
+            "Carlos Valderrama",
+            "Taribo West"
+        ]
+    },
+    {
+        "q": "Which match saw a **remote-controlled car** bring the match ball to the referee at kickoff?",
+        "o": [
+            "Euro 2020 opening match",
+            "Brazil vs. Germany (2014)",
+            "Champions League Final 2018",
+            "World Cup 2006 opening"
+        ]
+    },
+    {
+        "q": "Which team had to abandon their traditional anthem after it accidentally used lyrics from a soap commercial?",
+        "o": [
+            "New Zealand",
+            "South Korea",
+            "Morocco",
+            "Wales"
+        ]
+    },
+    {
+        "q": "Which coach banned his players from eating **tomatoes**, claiming they slowed reflexes?",
+        "o": [
+            "Marcello Lippi",
+            "Ottmar Hitzfeld",
+            "Luis Enrique",
+            "Carlos Queiroz"
+        ]
+    },
+    {
+        "q": "Which club’s training pitch was once invaded by a **herd of goats**, causing a session to be canceled?",
+        "o": [
+            "Go Ahead Eagles (Netherlands)",
+            "Real Oviedo",
+            "Trabzonspor",
+            "Melbourne Victory"
+        ]
+    },
+    {
+        "q": "Which footballer once refused to play unless his dog was allowed in the dressing room?",
+        "o": [
+            "Leandro Damiao",
+            "Nicolas Anelka",
+            "Adriano",
+            "Mario Balotelli"
+        ]
+    },
+    {
+        "q": "Which team once had a player suspended for celebrating by climbing a tree near the pitch?",
+        "o": [
+            "Kenya Premier League club",
+            "Trinidad & Tobago U20",
+            "Paraguay 2nd Division",
+            "Bosnia National Team"
+        ]
+    },
+    {
+        "q": "Which goalkeeper once missed a match because he got stuck in traffic on a **tractor**?",
+        "o": [
+            "Bobby Olejnik",
+            "Jan Tomaszewski",
+            "Pepe Reina",
+            "Artur Boruc"
+        ]
+    },
+    {
+        "q": "Which player once scored a goal, ran into the stands, and accidentally knocked over a hot dog vendor?",
+        "o": [
+            "Carlos Tévez",
+            "Jamie Vardy",
+            "Miroslav Klose",
+            "Luis Suárez"
+        ]
+    },
+    {
+        "q": "Which club hosted a match where fans were accidentally sprayed with sprinklers throughout the game?",
+        "o": [
+            "Brentford",
+            "Villarreal",
+            "Celtic",
+            "Sassuolo"
+        ]
+    },
+    {
+        "q": "Which referee once stopped a game because a player’s hair color was 'too distracting'?",
+        "o": [
+            "Australian youth match",
+            "MLS playoff game",
+            "African Cup qualifier",
+            "Bundesliga II"
+        ]
+    },
+    {
+        "q": "Which team’s manager once used **smoke bombs** during practice to simulate crowd flares?",
+        "o": [
+            "Red Star Belgrade",
+            "Fenerbahçe",
+            "St. Pauli",
+            "Napoli"
+        ]
+    },
+    {
+        "q": "Which player missed a match because his pet parrot flew out the window the night before?",
+        "o": [
+            "Joaquín Sánchez",
+            "Paolo Di Canio",
+            "Clint Dempsey",
+            "Eduardo Salvio"
+        ]
+    },
+    {
+        "q": "Which club accidentally printed the **opponent's badge** on their official matchday shirts?",
+        "o": [
+            "FC Köln",
+            "Sunderland",
+            "Vitesse",
+            "Hellas Verona"
+        ]
+    },
+    {
+        "q": "Which country’s football association was once fined after goats invaded the training ground and damaged the pitch?",
+        "o": [
+            "Malawi",
+            "India",
+            "El Salvador",
+            "Armenia"
+        ]
+    },
+    {
+        "q": "Which national team once arrived for a match with only 7 players due to a player strike?",
+        "o": [
+            "Argentina (vs. Brazil, 2018)",
+            "Spain (vs. Switzerland, 1980)",
+            "Turkey (vs. Greece, 2004)",
+            "Belgium (vs. Netherlands, 1976)"
+        ]
+    },
+    {
+        "q": "Which goalkeeper wore his gloves on the wrong hands as a superstition — and still kept a clean sheet?",
+        "o": [
+            "René Higuita",
+            "Fabien Barthez",
+            "Bruce Grobbelaar",
+            "Chilavert"
+        ]
+    },
+    {
+        "q": "Which player once interrupted a match to tie his shoelaces in front of the opponent's goal, causing a delay?",
+        "o": [
+            "Mario Balotelli",
+            "Paul Pogba",
+            "Eden Hazard",
+            "Romário"
+        ]
+    },
+    {
+        "q": "Which team once won a league title despite having a negative goal difference?",
+        "o": [
+            "Universidad San Martín (Peru)",
+            "Hibernian FC",
+            "CSKA Sofia",
+            "Huddersfield Town"
+        ]
+    },
+    {
+        "q": "Which World Cup featured a match delayed due to a cow wandering onto the pitch before kickoff?",
+        "o": [
+            "Uruguay 1930",
+            "Chile 1962",
+            "South Africa 2010",
+            "France 1938"
+        ]
+    },
+    {
+        "q": "Which footballer requested to take every throw-in during a match to break a world record?",
+        "o": [
+            "Delap's testimonial match",
+            "Dani Alves tribute game",
+            "Gareth Bale farewell match",
+            "Ashley Cole charity game"
+        ]
+    },
+    {
+        "q": "Which club once had to borrow their goalkeeper from a local pub team after an injury crisis?",
+        "o": [
+            "Doncaster Rovers",
+            "Stoke City",
+            "Reims",
+            "Wigan Athletic"
+        ]
+    },
+    {
+        "q": "Which national team’s coach once banned **headphones** because they 'blocked tactical awareness'?",
+        "o": [
+            "Iran",
+            "Norway",
+            "Canada",
+            "Poland"
+        ]
+    },
+    {
+        "q": "Which referee famously lost his whistle mid-game and had to use hand gestures to signal fouls?",
+        "o": [
+            "Referee at 1982 Copa Libertadores",
+            "Howard Webb in a UCL game",
+            "Referee in 1974 Bundesliga",
+            "FIFA U20 match in 1991"
+        ]
+    },
+    {
+        "q": "Which team wore shirts made from bamboo fibers during an official league match?",
+        "o": [
+            "Shenzhen FC (China)",
+            "Rapid Wien",
+            "Melbourne Victory",
+            "Basel"
+        ]
+    },
+    {
+        "q": "Which footballer once missed a penalty after slipping and kicking the ball into his own face?",
+        "o": [
+            "John Smith (amateur UK match)",
+            "Mario Balotelli",
+            "Raheem Sterling",
+            "Paul Pogba"
+        ]
+    },
+    {
+        "q": "Which club once had to postpone a match because the pitch was frozen — despite it being summer?",
+        "o": [
+            "B36 Tórshavn (Faroe Islands)",
+            "Molde FK",
+            "Rosenborg BK",
+            "IFK Göteborg"
+        ]
+    },
+    {
+        "q": "Which referee once showed a red card to himself in protest during an amateur match?",
+        "o": [
+            "Melbourne Sunday League official",
+            "Argentinian regional referee",
+            "Danish cup referee",
+            "South African school referee"
+        ]
+    },
+    {
+        "q": "Which goalkeeper once brought a stuffed animal mascot to every match for good luck?",
+        "o": [
+            "Petr Čech (as a youth)",
+            "Joe Hart",
+            "Iker Casillas",
+            "Gianluigi Buffon"
+        ]
+    },
+    {
+        "q": "Which club once released a limited edition kit made entirely of recycled fishing nets?",
+        "o": [
+            "Real Betis",
+            "Hammarby IF",
+            "Brighton & Hove Albion",
+            "Shimizu S-Pulse"
+        ]
+    },
+    {
+        "q": "Which match had to be replayed after a team protested that the referee was 'too short' to officiate?",
+        "o": [
+            "Senegal regional final",
+            "Bolivia U21 championship",
+            "Iceland second division",
+            "Qatar university league"
+        ]
+    },
+    {
+        "q": "Which player once wore gloves **on his feet** during training to protest poor boot quality?",
+        "o": [
+            "Kevin Kurányi",
+            "Thomas Gravesen",
+            "Antonio Cassano",
+            "Taribo West"
+        ]
+    },
+    {
+        "q": "Which international team traveled with their own chef — but he only cooked one dish the entire tournament?",
+        "o": [
+            "Saudi Arabia",
+            "Russia",
+            "Japan",
+            "Cameroon"
+        ]
+    },
+    {
+        "q": "Which player was once subbed off immediately after scoring because the coach said, 'He had nothing left to prove'?",
+        "o": [
+            "Ronaldo Nazário (Cruzeiro debut)",
+            "Carlos Vela",
+            "James Rodríguez",
+            "Giovani dos Santos"
+        ]
+    },
+    {
+        "q": "Which team once painted their changing room walls pink to make the opponents feel 'weaker'?",
+        "o": [
+            "Iowa Hawkeyes (inspired Dundee FC)",
+            "Sheffield United",
+            "Newcastle United",
+            "Club Brugge"
+        ]
+    },
+    {
+        "q": "Which player brought his pet rabbit to training every day for 'emotional support'?",
+        "o": [
+            "David Luiz",
+            "Angel Di María",
+            "Timo Werner",
+            "Carlos Valderrama"
+        ]
+    },
+    {
+        "q": "Which match was delayed after a beehive was discovered inside the goalpost net?",
+        "o": [
+            "Uganda Premier League",
+            "Scottish League Two",
+            "MLS preseason friendly",
+            "Eredivisie youth match"
+        ]
+    },
+    {
+        "q": "Which club’s players once wore jersey numbers that spelled out a protest message during a live match?",
+        "o": [
+            "São Paulo FC",
+            "Dinamo Zagreb",
+            "Marseille",
+            "Partizan Belgrade"
+        ]
+    },
+    {
+        "q": "Which national team flew to an away match on three separate planes due to a superstition?",
+        "o": [
+            "Serbia",
+            "Egypt",
+            "Mexico",
+            "Croatia"
+        ]
+    },
+    {
+        "q": "Which player once caused a match to pause by accidentally bursting the ball during a shot?",
+        "o": [
+            "Adriano (Inter Milan)",
+            "Adebayo Akinfenwa",
+            "Gabriel Batistuta",
+            "Romelu Lukaku"
+        ]
+    },
+    {
+        "q": "Which team replaced their official mascot with a costumed pineapple as a joke — and it went viral?",
+        "o": [
+            "Wycombe Wanderers",
+            "Union Berlin",
+            "Newcastle Jets",
+            "Rapid Vienna"
+        ]
+    },
+    {
+        "q": "Which footballer had his boots stolen mid-match and continued barefoot until halftime?",
+        "o": [
+            "Asamoah Gyan",
+            "Daniel Agger",
+            "Hidetoshi Nakata",
+            "Lee Sharpe"
+        ]
+    },
+    {
+        "q": "Which referee was caught on camera **celebrating a goal** during a match he was officiating?",
+        "o": [
+            "Referee in Greek Super League",
+            "Turkish Cup quarter-final",
+            "A-League derby",
+            "Belgian Pro League game"
+        ]
+    },
+    {
+        "q": "Which stadium once had to cancel a match due to an owl refusing to leave the field?",
+        "o": [
+            "Estadio Defensores del Chaco (Paraguay)",
+            "Allianz Parque (Brazil)",
+            "Signal Iduna Park (Germany)",
+            "Stamford Bridge (England)"
+        ]
+    },
+    {
+        "q": "Which club had to abandon their game-day shirts and wear the referee’s training bibs due to a laundry mistake?",
+        "o": [
+            "Albania U21",
+            "Swansea City",
+            "Genoa",
+            "Portland Timbers"
+        ]
+    },
+    {
+        "q": "Which footballer was once substituted because he couldn’t stop laughing during the match?",
+        "o": [
+            "Emmanuel Eboué",
+            "Ronaldinho",
+            "Nicklas Bendtner",
+            "Thomas Müller"
+        ]
+    },
+    {
+        "q": "Which team had to pause their match due to a drone dropping toilet paper onto the pitch?",
+        "o": [
+            "Austria Wien",
+            "Fenerbahçe",
+            "Sheffield Wednesday",
+            "Al Ahly"
+        ]
+    },
+    {
+        "q": "Which player once attempted to play with **sunglasses** on before being forced to remove them?",
+        "o": [
+            "Dani Alves",
+            "Pierre van Hooijdonk",
+            "Antonio Cassano",
+            "El Hadji Diouf"
+        ]
+    },
+    {
+        "q": "Which club created a special edition jersey with their **fans' fingerprints** embedded in the fabric?",
+        "o": [
+            "Atalanta",
+            "Feyenoord",
+            "Real Sociedad",
+            "St. Etienne"
+        ]
+    },
+    {
+        "q": "Which match was delayed because the referee was stuck in an elevator at the stadium?",
+        "o": [
+            "Chile Primera División fixture",
+            "UCL youth match",
+            "Serie B playoff",
+            "African Nations qualifier"
+        ]
+    },
+    {
+        "q": "Which national team’s coach once used **paintball battles** as a warm-up exercise?",
+        "o": [
+            "Russia",
+            "Denmark",
+            "Colombia",
+            "Japan"
+        ]
+    },
+    {
+        "q": "Which goalkeeper was once booked for using chewing gum to block the penalty spot?",
+        "o": [
+            "Jens Lehmann",
+            "Kepa Arrizabalaga",
+            "Wojciech Szczęsny",
+            "Oliver Kahn"
+        ]
+    },
+    {
+        "q": "Which club once entered a cup match wearing superhero capes for charity awareness?",
+        "o": [
+            "QPR",
+            "Club Brugge",
+            "LA Galaxy",
+            "Sampdoria"
+        ]
+    },
+    {
+        "q": "Which player paused a match after losing his **wedding ring** on the pitch?",
+        "o": [
+            "Andres D’Alessandro",
+            "John Terry",
+            "Carlos Tevez",
+            "Gerard Piqué"
+        ]
+    },
+    {
+        "q": "Which club once allowed a fan to **manage the team** for a pre-season friendly?",
+        "o": [
+            "Ebbsfleet United",
+            "Forest Green Rovers",
+            "Deportivo Morón",
+            "Helsingborgs IF"
+        ]
+    },
+    {
+        "q": "Which team once had to play in their training kits because their match jerseys were locked in a van?",
+        "o": [
+            "Luton Town",
+            "Panama National Team",
+            "Hearts FC",
+            "Zambia U23"
+        ]
+    },
+    {
+        "q": "Which player was booked for pretending to be injured — then revealed he was faking to propose to his girlfriend?",
+        "o": [
+            "Ali Samatta",
+            "Robbie Savage",
+            "Marco Verratti",
+            "Shinji Okazaki"
+        ]
+    },
+    {
+        "q": "Which national team played a World Cup match wearing **two different sock colors** due to a shipment error?",
+        "o": [
+            "Belgium (1930)",
+            "Chile (1962)",
+            "South Korea (1986)",
+            "Senegal (2002)"
+        ]
+    },
+    {
+        "q": "Which goalkeeper once took a selfie with fans during a break in an official match?",
+        "o": [
+            "Joe Hart",
+            "Alisson Becker",
+            "David Ospina",
+            "Gianluigi Donnarumma"
+        ]
+    },
+    {
+        "q": "Which team warmed up in **bathrobes** before a crucial league match as a prank?",
+        "o": [
+            "Fortuna Düsseldorf",
+            "Montpellier",
+            "Bournemouth",
+            "Vasco da Gama"
+        ]
+    },
+    {
+        "q": "Which match featured a streaker dressed as a referee who blew a fake whistle mid-game?",
+        "o": [
+            "Aston Villa vs. Spurs (2008)",
+            "Ajax vs. PSV (2010)",
+            "River Plate vs. Boca Juniors (2004)",
+            "Italy vs. Croatia (1998)"
+        ]
+    },
+    {
+        "q": "Which club accidentally sent their players to the **wrong country** for a continental cup fixture?",
+        "o": [
+            "Al Hilal (AFC Champions League)",
+            "Dinamo Minsk",
+            "Persepolis FC",
+            "Kaiser Chiefs"
+        ]
+    },
+    {
+        "q": "Which footballer celebrated a goal by pulling out a violin and pretending to play it?",
+        "o": [
+            "Paulo Dybala (training match)",
+            "Pierre-Emerick Aubameyang",
+            "Carlos Vela",
+            "Christian Benteke"
+        ]
+    },
+    {
+        "q": "Which team’s coach was sent off after he celebrated a goal by sliding on his knees into the fourth official?",
+        "o": [
+            "Slaven Bilić (Croatia)",
+            "Jurgen Klopp (Dortmund)",
+            "José Mourinho (Chelsea)",
+            "Marcelo Bielsa (Marseille)"
+        ]
+    },
+    {
+        "q": "Which referee once lost control of the match so badly that both teams substituted him by agreement?",
+        "o": [
+            "Local Derby in Kazakhstan",
+            "CONCACAF U17 semi-final",
+            "Scottish League Two clash",
+            "Cypriot Third Division"
+        ]
+    },
+    {
+        "q": "Which player received a yellow card for using his shirt to clean the match ball before a throw-in?",
+        "o": [
+            "Andrey Arshavin",
+            "Aaron Lennon",
+            "Ricardo Quaresma",
+            "Rafael van der Vaart"
+        ]
+    },
+    {
+        "q": "Which club’s goalkeeper once had to leave the pitch after being bitten by a squirrel?",
+        "o": [
+            "Torquay United",
+            "Cerezo Osaka",
+            "Eintracht Frankfurt",
+            "Colorado Rapids"
+        ]
+    },
+    {
+        "q": "Which team once traveled to a match using a tractor after their bus broke down?",
+        "o": [
+            "FC Polissya Zhytomyr (Ukraine)",
+            "Accrington Stanley",
+            "Deportivo Merlo",
+            "Persipura Jayapura"
+        ]
+    },
+    {
+        "q": "Which player missed a cup final after injuring himself celebrating a goal the week before?",
+        "o": [
+            "Santi Cazorla",
+            "Djibril Cissé",
+            "Phil Jones",
+            "Diego Costa"
+        ]
+    },
+    {
+        "q": "Which match was delayed because a giant inflatable mascot got stuck on the crossbar?",
+        "o": [
+            "MLS All-Star Game",
+            "FA Trophy Final",
+            "Qatar Stars League opener",
+            "Belgian Super Cup"
+        ]
+    },
+    {
+        "q": "Which national team once trained with **cardboard cutouts** of fans during a tournament?",
+        "o": [
+            "New Zealand",
+            "Costa Rica",
+            "Greece",
+            "Vietnam"
+        ]
+    },
+    {
+        "q": "Which club once changed their name to include a sponsor's brand as part of a financial rescue deal?",
+        "o": [
+            "Red Bull Salzburg",
+            "MK Dons",
+            "Atlético Madrid",
+            "Stade Rennes"
+        ]
+    },
+    {
+        "q": "Which player arrived for training in a horse costume after losing a bet with teammates?",
+        "o": [
+            "Marcelo",
+            "Jérôme Boateng",
+            "Mario Balotelli",
+            "Wilfried Zaha"
+        ]
+    },
+    {
+        "q": "Which referee paused a match to take a selfie with a player being subbed off?",
+        "o": [
+            "A youth league referee in Brazil",
+            "A La Liga referee in 2019",
+            "FIFA U20 ref from Algeria",
+            "Premier League official"
+        ]
+    },
+    {
+        "q": "Which player wore mismatched boots during a top-flight match and claimed it was for 'balance'?",
+        "o": [
+            "Antonio Cassano",
+            "Memphis Depay",
+            "Gennaro Gattuso",
+            "Adama Traoré"
+        ]
+    },
+    {
+        "q": "Which footballer once arrived late to a match because he got stuck playing FIFA at home?",
+        "o": [
+            "Serge Gnabry",
+            "Phil Foden",
+            "Jack Grealish",
+            "Neymar"
+        ]
+    },
+    {
+        "q": "Which national team once lost a match because all 3 of their goalkeepers were sent off?",
+        "o": [
+            "Indonesia",
+            "Cameroon",
+            "Slovakia",
+            "Jamaica"
+        ]
+    },
+    {
+        "q": "Which team once used their goalkeeper as a striker for the entire second half — and he scored?",
+        "o": [
+            "Necaxa (Mexico)",
+            "Fiorentina",
+            "Hearts FC",
+            "Zamalek SC"
+        ]
+    },
+    {
+        "q": "Which player once celebrated a goal by pretending to fish his teammate out of a pond?",
+        "o": [
+            "Robbie Keane",
+            "Gabriel Jesus",
+            "Mario Balotelli",
+            "Lukas Podolski"
+        ]
+    },
+    {
+        "q": "Which club's team bus was once stolen during halftime of an away match?",
+        "o": [
+            "Gillingham FC",
+            "Trabzonspor",
+            "OFI Crete",
+            "Shrewsbury Town"
+        ]
+    },
+    {
+        "q": "Which goalkeeper once made a double save using his head and back while lying on the ground?",
+        "o": [
+            "Artur Boruc",
+            "Mark Schwarzer",
+            "David De Gea",
+            "René Higuita"
+        ]
+    },
+    {
+        "q": "Which match had to be stopped after a floodlight collapse caused one team's bench to be flattened?",
+        "o": [
+            "Egyptian Premier League match",
+            "Championship Playoff",
+            "Serie C game",
+            "AFC Cup tie"
+        ]
+    },
+    {
+        "q": "Which club once allowed fans to vote on player substitutions during a friendly match?",
+        "o": [
+            "Ebbsfleet United",
+            "Chennaiyin FC",
+            "FC Vaduz",
+            "St. Mirren"
+        ]
+    },
+    {
+        "q": "Which footballer wore a superhero cape under his jersey and revealed it during goal celebrations?",
+        "o": [
+            "Pierre-Emerick Aubameyang",
+            "Antoine Griezmann",
+            "Erling Haaland",
+            "Paul Pogba"
+        ]
+    },
+    {
+        "q": "Which player paused a match to politely shake hands with every substitute on the opposing bench?",
+        "o": [
+            "Miroslav Klose",
+            "Jordan Henderson",
+            "Toni Kroos",
+            "Santi Cazorla"
         ]
     }
 ]
