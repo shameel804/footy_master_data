@@ -2698,5 +2698,1229 @@
             "Toni Kroos",
             "Santi Cazorla"
         ]
+    },
+    {
+        "q": "Which club is recognized as the oldest existing professional football club in the world?",
+        "o": [
+            "Notts County (England, 1862)",
+            "Sheffield FC (England, 1857)",
+            "Aston Villa (England, 1874)",
+            "Real Madrid (Spain, 1902)"
+        ]
+    },
+    {
+        "q": "What was the original name of the English Premier League when it was founded?",
+        "o": [
+            "The Football League First Division",
+            "The Premier Division",
+            "The English Super League",
+            "The FA Premier League"
+        ]
+    },
+    {
+        "q": "Which country won the first-ever FIFA Women's World Cup in 1991?",
+        "o": [
+            "United States",
+            "Norway",
+            "Germany",
+            "Sweden"
+        ]
+    },
+    {
+        "q": "Who was the first African player to win the Ballon d'Or?",
+        "o": [
+            "George Weah (Liberia)",
+            "Samuel Eto'o (Cameroon)",
+            "Didier Drogba (Ivory Coast)",
+            "Roger Milla (Cameroon)"
+        ]
+    },
+    {
+        "q": "Which stadium hosted the first-ever European Cup (now UEFA Champions League) final in 1956?",
+        "o": [
+            "Parc des Princes (Paris, France)",
+            "Wembley Stadium (London, England)",
+            "Santiago Bernabéu (Madrid, Spain)",
+            "San Siro (Milan, Italy)"
+        ]
+    },
+    {
+        "q": "What was the first football competition to introduce penalty shootouts?",
+        "o": [
+            "The European Cup Winners' Cup (1970)",
+            "The FIFA World Cup (1978)",
+            "The UEFA European Championship (1976)",
+            "The Copa América (1989)"
+        ]
+    },
+    {
+        "q": "Which player scored the fastest hat-trick in English top-flight football history (2 minutes 30 seconds)?",
+        "o": [
+            "Sadio Mané (Southampton, 2015)",
+            "Robbie Fowler (Liverpool, 1994)",
+            "Alan Shearer (Newcastle, 1999)",
+            "Sergio Agüero (Manchester City, 2018)"
+        ]
+    },
+    {
+        "q": "Which country introduced the first professional football league outside of Europe?",
+        "o": [
+            "Argentina (1931)",
+            "Brazil (1959)",
+            "United States (1967)",
+            "Mexico (1943)"
+        ]
+    },
+    {
+        "q": "Who was the first goalkeeper to score a goal in a professional football match?",
+        "o": [
+            "José Luis Chilavert (Paraguay)",
+            "René Higuita (Colombia)",
+            "Rogerio Ceni (Brazil)",
+            "Peter Schmeichel (Denmark)"
+        ]
+    },
+    {
+        "q": "Which football tournament was the first to use video assistant referees (VAR)?",
+        "o": [
+            "2016 FIFA Club World Cup",
+            "2018 FIFA World Cup",
+            "2019 AFC Asian Cup",
+            "2017 UEFA Champions League"
+        ]
+    },
+    {
+        "q": "Which legendary footballer was known as 'The Black Pearl'?",
+        "o": [
+            "Eusébio",
+            "Pelé",
+            "Diego Maradona",
+            "Johan Cruyff"
+        ]
+    },
+    {
+        "q": "What was the original number of founding member nations when FIFA was established in 1904?",
+        "o": [
+            "7",
+            "4",
+            "12",
+            "10"
+        ]
+    },
+    {
+        "q": "Which country introduced the first red and yellow card system in football?",
+        "o": [
+            "England",
+            "Brazil",
+            "Germany",
+            "Argentina"
+        ]
+    },
+    {
+        "q": "Who scored the famous 'Hand of God' goal in the 1986 World Cup?",
+        "o": [
+            "Diego Maradona",
+            "Lionel Messi",
+            "Gary Lineker",
+            "Zico"
+        ]
+    },
+    {
+        "q": "Which was the first African nation to reach the World Cup quarter-finals?",
+        "o": [
+            "Cameroon (1990)",
+            "Senegal (2002)",
+            "Nigeria (1994)",
+            "Morocco (2022)"
+        ]
+    },
+    {
+        "q": "What was unique about the 1950 World Cup final format?",
+        "o": [
+            "It was decided by a round-robin group instead of a single match",
+            "It went to extra time for the first time",
+            "It featured the first penalty shootout",
+            "It was played at two different venues"
+        ]
+    },
+    {
+        "q": "Which player famously wore the number 10 shirt for Brazil in the 1970 World Cup?",
+        "o": [
+            "Pelé",
+            "Garrincha",
+            "Zico",
+            "Rivelino"
+        ]
+    },
+    {
+        "q": "What innovation did Charles Reep introduce to football in the 1950s?",
+        "o": [
+            "Statistical analysis of matches",
+            "The 4-4-2 formation",
+            "Artificial turf pitches",
+            "Substitute players"
+        ]
+    },
+    {
+        "q": "Which country hosted the first World Cup to feature 32 teams in 1998?",
+        "o": [
+            "France",
+            "United States",
+            "Germany",
+            "South Korea/Japan"
+        ]
+    },
+    {
+        "q": "Who was the first player to win three European Cups consecutively?",
+        "o": [
+            "Francisco Gento (Real Madrid, 1956-60)",
+            "Alfredo Di Stéfano (Real Madrid, 1956-60)",
+            "Johan Cruyff (Ajax, 1971-73)",
+            "Paolo Maldini (AC Milan, 1989-94)"
+        ]
+    },
+    {
+        "q": "Which legendary manager invented the 'WM' formation?",
+        "o": [
+            "Herbert Chapman",
+            "Rinus Michels",
+            "Helenio Herrera",
+            "Vittorio Pozzo"
+        ]
+    },
+    {
+        "q": "What was significant about the 1970 World Cup ball ('Telstar')?",
+        "o": [
+            "First black-and-white paneled design for TV visibility",
+            "First synthetic leather ball",
+            "First waterproof ball",
+            "First ball with player signatures"
+        ]
+    },
+    {
+        "q": "Which nation won the first European Championship in 1960?",
+        "o": [
+            "Soviet Union",
+            "Yugoslavia",
+            "Spain",
+            "West Germany"
+        ]
+    },
+    {
+        "q": "Who was the first substitute to score in a World Cup final?",
+        "o": [
+            "Dick Nanninga (Netherlands, 1978)",
+            "Mario Götze (Germany, 2014)",
+            "André Schürrle (Germany, 2014)",
+            "Roger Milla (Cameroon, 1990)"
+        ]
+    },
+    {
+        "q": "Which club won the first European Cup (now Champions League) in 1956?",
+        "o": [
+            "Real Madrid",
+            "AC Milan",
+            "Benfica",
+            "Bayern Munich"
+        ]
+    },
+    {
+        "q": "Which ancient civilization played a game similar to football called 'Tsu Chu'?",
+        "o": [
+            "China (2nd century BC)",
+            "Ancient Greece",
+            "Roman Empire",
+            "Aztec civilization"
+        ]
+    },
+    {
+        "q": "What was the original purpose of the crossbar in early football goals?",
+        "o": [
+            "To replace ribbons/tapes marking the height",
+            "To make goals more challenging",
+            "For players to hang on during celebrations",
+            "To attach nets properly"
+        ]
+    },
+    {
+        "q": "Which country hosted the first night World Cup match in 1934?",
+        "o": [
+            "Italy",
+            "Brazil",
+            "Uruguay",
+            "France"
+        ]
+    },
+    {
+        "q": "Who was the first non-European or South American player to score in a World Cup?",
+        "o": [
+            "Haiti's Emmanuel Sanon (1974 vs Italy)",
+            "USA's Bert Patenaude (1930)",
+            "North Korea's Pak Doo-ik (1966)",
+            "Cameroon's Roger Milla (1990)"
+        ]
+    },
+    {
+        "q": "What innovation did Arsenal manager Herbert Chapman introduce in 1925?",
+        "o": [
+            "Numbered shirts",
+            "White footballs",
+            "Floodlit matches",
+            "The WM formation"
+        ]
+    },
+    {
+        "q": "Which was the first World Cup to be broadcast live on television?",
+        "o": [
+            "1954 (Switzerland)",
+            "1938 (France)",
+            "1966 (England)",
+            "1970 (Mexico)"
+        ]
+    },
+    {
+        "q": "What unusual rule existed in early Scottish football until 1891?",
+        "o": [
+            "Goals counted if scored from any angle (no crossbar)",
+            "Throw-ins could be taken with hands or feet",
+            "No substitutions even for injuries",
+            "Goalkeepers could handle anywhere in their half"
+        ]
+    },
+    {
+        "q": "Which legendary player was originally rejected by his first club for being 'too small'?",
+        "o": [
+            "Lionel Messi (Newell's Old Boys)",
+            "Diego Maradona (Argentinos Juniors)",
+            "Pelé (Santos)",
+            "Xavi (Barcelona)"
+        ]
+    },
+    {
+        "q": "What was unique about the 1962 World Cup in Chile?",
+        "o": [
+            "First tournament with player substitutions allowed",
+            "First use of yellow/red cards",
+            "Only World Cup without a final match",
+            "First to have all matches televised in color"
+        ]
+    },
+    {
+        "q": "Which club pioneered the use of dugouts for substitutes and coaches?",
+        "o": [
+            "Aberdeen FC (Scotland)",
+            "Arsenal FC (England)",
+            "Boca Juniors (Argentina)",
+            "Real Madrid (Spain)"
+        ]
+    },
+    {
+        "q": "What historical event forced the cancellation of the 1942 and 1946 World Cups?",
+        "o": [
+            "World War II",
+            "Great Depression",
+            "Spanish Flu pandemic",
+            "FIFA financial crisis"
+        ]
+    },
+    {
+        "q": "Which nation first introduced numbered shirts in international football?",
+        "o": [
+            "England (vs Scotland, 1933)",
+            "Brazil (1950 World Cup)",
+            "Uruguay (1924 Olympics)",
+            "Italy (1934 World Cup)"
+        ]
+    },
+    {
+        "q": "What was the original duration of a football match when rules were first codified in 1863?",
+        "o": [
+            "No fixed time (agreed by captains)",
+            "60 minutes",
+            "90 minutes",
+            "120 minutes"
+        ]
+    },
+    {
+        "q": "Which player broke the world transfer record three times in the 1950s?",
+        "o": [
+            "Alfredo Di Stéfano",
+            "Ferenc Puskás",
+            "John Charles",
+            "Duncan Edwards"
+        ]
+    },
+    {
+        "q": "What technological innovation debuted at the 1994 World Cup?",
+        "o": [
+            "Electronic scoreboards",
+            "Goal-line technology",
+            "Player tracking chips",
+            "VAR (Video Assistant Referee)"
+        ]
+    },
+    {
+        "q": "Which country hosted the first official international football match outside of Britain?",
+        "o": [
+            "Austria (1902, Austria vs Hungary)",
+            "France (1904, France vs Belgium)",
+            "Argentina (1905, Argentina vs Uruguay)",
+            "USA (1885, USA vs Canada)"
+        ]
+    },
+    {
+        "q": "What was the original purpose of the football net, invented in 1891?",
+        "o": [
+            "To settle disputes about whether goals were scored",
+            "To make goalkeeping easier",
+            "To prevent balls from leaving the pitch",
+            "To help spectators see goals better"
+        ]
+    },
+    {
+        "q": "Which was the first national team to wear numbered shirts in a World Cup?",
+        "o": [
+            "Brazil (1950)",
+            "England (1954)",
+            "Uruguay (1930)",
+            "Italy (1934)"
+        ]
+    },
+    {
+        "q": "What unusual rule existed in early FA Cup finals regarding substitutions?",
+        "o": [
+            "Injured players could be replaced but couldn't return",
+            "Only goalkeepers could be substituted",
+            "Substitutes had to be from the opposing team",
+            "No substitutions allowed even if team had fewer players"
+        ]
+    },
+    {
+        "q": "Which legendary manager introduced the 'sweeper' role to modern football?",
+        "o": [
+            "Karl Rappan (Switzerland, 1930s)",
+            "Helenio Herrera (Italy, 1960s)",
+            "Rinus Michels (Netherlands, 1970s)",
+            "Vittorio Pozzo (Italy, 1930s)"
+        ]
+    },
+    {
+        "q": "What was unique about the 1930 World Cup final referee?",
+        "o": [
+            "He refereed in suit and tie",
+            "He was the only referee for the entire tournament",
+            "He didn't speak the languages of either finalist",
+            "He allowed unlimited substitutions"
+        ]
+    },
+    {
+        "q": "Which country pioneered the use of floodlights for evening matches?",
+        "o": [
+            "England (1878, Sheffield United vs. Hallam)",
+            "Brazil (1920s, Rio de Janeiro)",
+            "USA (1926, American Soccer League)",
+            "Spain (1929, Barcelona)"
+        ]
+    },
+    {
+        "q": "What innovation did Corinthians FC introduce in the 1880s?",
+        "o": [
+            "The concept of passing the ball (rather than dribbling)",
+            "The first football boots with studs",
+            "The corner flag",
+            "The penalty area"
+        ]
+    },
+    {
+        "q": "Which was the first World Cup to feature group stages?",
+        "o": [
+            "1950 (Brazil)",
+            "1934 (Italy)",
+            "1958 (Sweden)",
+            "1974 (West Germany)"
+        ]
+    },
+    {
+        "q": "What was unusual about the 1927 FA Cup Final ball?",
+        "o": [
+            "It was white for the first time (previously brown)",
+            "It was significantly smaller than standard balls",
+            "It had the signatures of both teams",
+            "It contained a bell inside"
+        ]
+    },
+    {
+        "q": "Which country first introduced professional referees?",
+        "o": [
+            "Brazil (1999)",
+            "England (2001)",
+            "Germany (1997)",
+            "Italy (1994)"
+        ]
+    },
+    {
+        "q": "What historical rule change happened in 1925 that revolutionized tactics?",
+        "o": [
+            "Offside rule changed from 3 to 2 defenders",
+            "Goalkeepers were restricted to penalty area",
+            "Throw-ins could no longer be taken with hands",
+            "Penalty kicks were introduced"
+        ]
+    },
+    {
+        "q": "Which club was the first to win European trophies with all foreign players?",
+        "o": [
+            "Chelsea (2012 Champions League)",
+            "Porto (2004 Champions League)",
+            "Inter Milan (2010 Champions League)",
+            "Real Madrid (2002 Champions League)"
+        ]
+    },
+    {
+        "q": "What was unique about the 1954 World Cup final ball?",
+        "o": [
+            "It had no laces (first seamless ball)",
+            "It was waterproof for the first time",
+            "It was yellow instead of brown",
+            "It contained a radio transmitter"
+        ]
+    },
+    {
+        "q": "Which nation first introduced the 'Golden Goal' rule in professional football?",
+        "o": [
+            "Japan (J-League 1993)",
+            "France (Ligue 1 1991)",
+            "England (Premier League 1995)",
+            "USA (MLS 1996)"
+        ]
+    },
+    {
+        "q": "Which country fielded a team consisting entirely of priests at the 1924 Olympics?",
+        "o": [
+            "Vatican City (represented by Roman Seminary)",
+            "Ireland",
+            "Poland",
+            "Portugal"
+        ]
+    },
+    {
+        "q": "What bizarre item did Uruguay hide in the goalposts during the 1930 World Cup final?",
+        "o": [
+            "Horseshoes (for good luck)",
+            "Secret documents",
+            "Weapons (as intimidation)",
+            "Live chickens"
+        ]
+    },
+    {
+        "q": "Which club famously used a live goat as their mascot and good luck charm in the 1950s?",
+        "o": [
+            "Hartlepool United",
+            "Athletic Bilbao",
+            "Boca Juniors",
+            "Celtic FC"
+        ]
+    },
+    {
+        "q": "What unusual punishment did FIFA impose on Chile after a 1989 World Cup qualifier?",
+        "o": [
+            "Forced to play next match at 3am local time",
+            "Banned from using their national anthem",
+            "Required to wear pink kits for a year",
+            "Had to host next match on an aircraft carrier"
+        ]
+    },
+    {
+        "q": "Which World Cup featured a match where both teams arrived wearing identical kits, forcing one to play in the referee's shirts?",
+        "o": [
+            "1958 (Sweden vs West Germany)",
+            "1966 (England vs Argentina)",
+            "1974 (East Germany vs West Germany)",
+            "1982 (Kuwait vs France)"
+        ]
+    },
+    {
+        "q": "What strange item did Brazilian club Flamengo once accept as partial payment for a player transfer?",
+        "o": [
+            "A shipment of pineapples",
+            "A racehorse",
+            "A small oil field",
+            "A vintage wine collection"
+        ]
+    },
+    {
+        "q": "Which country's league once awarded bonus points for 'entertaining play' in the 1990s?",
+        "o": [
+            "Scotland (SPL 1994-95)",
+            "Netherlands",
+            "Mexico",
+            "Australia"
+        ]
+    },
+    {
+        "q": "What unusual method did Peru use to select their 1936 Olympic football team?",
+        "o": [
+            "Players were chosen via public vote",
+            "Selected from prison teams",
+            "Drafted from factory workers",
+            "Chosen by lottery"
+        ]
+    },
+    {
+        "q": "Which club famously played a 1940s match with only 7 players due to a train strike, and won?",
+        "o": [
+            "Stoke City (vs Arsenal, 1947)",
+            "AC Milan",
+            "River Plate",
+            "Benfica"
+        ]
+    },
+    {
+        "q": "What bizarre pre-match ritual did the USSR team perform at the 1960 European Championship?",
+        "o": [
+            "All players shaved their heads",
+            "Goalkeeper urinated on the posts",
+            "Team psychologist hypnotized players",
+            "Ate exactly 17g of caviar each"
+        ]
+    },
+    {
+        "q": "Which country's FA once banned the bicycle kick for being 'too dangerous and ungentlemanly'?",
+        "o": [
+            "England (1920s)",
+            "Brazil (1930s)",
+            "Italy (1950s)",
+            "Argentina (1940s)"
+        ]
+    },
+    {
+        "q": "What strange object did fans throw onto the pitch during a 1967 match that caused a 30-minute delay?",
+        "o": [
+            "A live octopus (Dundee United vs Barcelona)",
+            "A grand piano",
+            "A motorcycle",
+            "A refrigerator"
+        ]
+    },
+    {
+        "q": "Which team once forfeited a match because their players were afraid of their opponents' witch doctor?",
+        "o": [
+            "Togo (vs Congo, 1974)",
+            "Haiti",
+            "Zaire",
+            "Jamaica"
+        ]
+    },
+    {
+        "q": "What unusual trophy was awarded to the winner of the first Copa America (1916)?",
+        "o": [
+            "A solid silver tea set",
+            "A live goat",
+            "A golden rifle",
+            "A 100kg cheese wheel"
+        ]
+    },
+    {
+        "q": "Which club's original 19th century rules stated that any player could 'catch the ball if clearly above head height'?",
+        "o": [
+            "Nottingham Forest",
+            "Sheffield FC",
+            "Cambridge University",
+            "Blackburn Rovers"
+        ]
+    },
+    {
+        "q": "Which country's league once awarded a 'Missile Throw-in Trophy' for the longest throw?",
+        "o": [
+            "Iceland (1970s)",
+            "Norway",
+            "Finland",
+            "Faroe Islands"
+        ]
+    },
+    {
+        "q": "What unusual material was used to make footballs during World War II shortages?",
+        "o": [
+            "Pig bladders and bicycle tires",
+            "Coconut fibers",
+            "Compressed paper",
+            "Rubber from gas masks"
+        ]
+    },
+    {
+        "q": "Which club's original 1890s rules allowed goals to be scored by kicking the ball through a hole in a wooden fence?",
+        "o": [
+            "Middlesbrough Ironopolis",
+            "Newton Heath LYR",
+            "Woolwich Arsenal",
+            "Small Heath Alliance"
+        ]
+    },
+    {
+        "q": "What bizarre condition did FIFA impose on Zaire during 1974 World Cup qualifying?",
+        "o": [
+            "Players had to take a geometry exam",
+            "Team must include at least 3 army generals",
+            "Goalkeeper forbidden from using hands",
+            "All substitutions required presidential approval"
+        ]
+    },
+    {
+        "q": "Which nation's FA once banned left-footed players for being 'unnatural'?",
+        "o": [
+            "Switzerland (1908-1912)",
+            "Austria",
+            "Belgium",
+            "Luxembourg"
+        ]
+    },
+    {
+        "q": "What strange item did Brazilian club Corinthians use as a makeshift trophy in 1910?",
+        "o": [
+            "A chamber pot",
+            "A rusted anchor",
+            "A stuffed alligator",
+            "A railway spike"
+        ]
+    },
+    {
+        "q": "Which World Cup match was controversially decided by drawing lots from a bowler hat?",
+        "o": [
+            "1968 European Championship (Italy vs USSR)",
+            "1954 World Cup (Turkey vs Spain)",
+            "1970 World Cup (Morocco vs Peru)",
+            "1982 World Cup (Algeria vs Chile)"
+        ]
+    },
+    {
+        "q": "What unusual pre-match meal did England's 1966 World Cup team consume?",
+        "o": [
+            "Steak and ice cream",
+            "Raw eggs in beer",
+            "Boiled cabbage",
+            "Whiskey-soaked bread"
+        ]
+    },
+    {
+        "q": "Which club famously employed a live bear as their security guard in the 1920s?",
+        "o": [
+            "Beerschot AC (Belgium)",
+            "Dynamo Moscow",
+            "Rangers FC",
+            "Ferencváros"
+        ]
+    },
+    {
+        "q": "What strange rule existed in early Australian rules football/soccer hybrid matches?",
+        "o": [
+            "Goals counted double if scored while riding a kangaroo",
+            "Players could tackle using boomerangs",
+            "The ball had to bounce once per every 10 yards",
+            "Matches paused for tea after each goal"
+        ]
+    },
+    {
+        "q": "Which country's league once experimented with 'silent matches' where crowd noise was banned?",
+        "o": [
+            "East Germany (1971)",
+            "Sweden",
+            "Portugal",
+            "Czechoslovakia"
+        ]
+    },
+    {
+        "q": "What unusual punishment did Argentina's FA impose on violent players in the 1930s?",
+        "o": [
+            "Forced to referee youth matches",
+            "Mandatory ballet lessons",
+            "Public apology via radio broadcast",
+            "Shaved eyebrows"
+        ]
+    },
+    {
+        "q": "Which team's supporters once smuggled an entire brass band into a match inside a giant flag?",
+        "o": [
+            "Rapid Vienna (1920s)",
+            "Celtic FC",
+            "Boca Juniors",
+            "Fenerbahçe"
+        ]
+    },
+    {
+        "q": "What strange condition was attached to Scotland's first international match in 1872?",
+        "o": [
+            "All players had to wear matching nightcaps",
+            "No player could weigh more than 11 stone",
+            "Goals only counted if scored underarm",
+            "The match ball had to contain a live bird"
+        ]
+    },
+    {
+        "q": "Which club's original 1880s charter required players to abstain from tea and coffee?",
+        "o": [
+            "Preston North End",
+            "Aston Villa",
+            "Sunderland AFC",
+            "Notts County"
+        ]
+    },
+    {
+        "q": "Which club was forced to play a 1927 match with a wheel of cheese after their ball was confiscated by local authorities?",
+        "o": [
+            "FC Appenzell (Switzerland)",
+            "SK Brann (Norway)",
+            "AFC Wimbledon (England)",
+            "Deportivo Queso (Spain)"
+        ]
+    },
+    {
+        "q": "What did 1930s Ukrainian club Chornomorets Odessa use as goal nets during wartime shortages?",
+        "o": [
+            "Fishing nets stolen from German troops",
+            "Knitted together military uniforms",
+            "Dried animal intestines",
+            "Salvaged parachute cords"
+        ]
+    },
+    {
+        "q": "Which country's FA once required all referees to take a phrenology exam (head shape analysis)?",
+        "o": [
+            "Belgium (1923-1928)",
+            "Argentina",
+            "Sweden",
+            "Egypt"
+        ]
+    },
+    {
+        "q": "What unusual item did Brazilian legend Garrincha keep in his left boot for good luck?",
+        "o": [
+            "A piece of his childhood home's roof tile",
+            "A photo of his first girlfriend",
+            "A dried frog",
+            "A communist party membership card"
+        ]
+    },
+    {
+        "q": "Which club's 1890s rules stated that any player scoring an own goal had to buy new boots for the entire team?",
+        "o": [
+            "Darwen FC (England)",
+            "FC Basel (Switzerland)",
+            "Racing Club de France",
+            "Dundee Wanderers (Scotland)"
+        ]
+    },
+    {
+        "q": "What did Soviet club Dynamo Moscow use to mark penalty spots during their 1942 wartime matches?",
+        "o": [
+            "Spent artillery shell casings",
+            "Buttons from German uniforms",
+            "Stalin portrait badges",
+            "Ration bread rolls"
+        ]
+    },
+    {
+        "q": "Which national team was once disqualified for fielding a player who turned out to be a circus acrobat?",
+        "o": [
+            "Luxembourg (1908 Olympics)",
+            "India",
+            "Costa Rica",
+            "Philippines"
+        ]
+    },
+    {
+        "q": "What strange pre-match ritual did 1950s Italian club Pro Patria perform?",
+        "o": [
+            "Players rubbed garlic on their knees",
+            "Goalkeeper stood on his head for 3 minutes",
+            "Whole team smoked one shared cigarette",
+            "Massaged each other with olive oil"
+        ]
+    },
+    {
+        "q": "Which country's league once awarded bonus points for 'most artistic hairstyle'?",
+        "o": [
+            "Austria (1921 Wiener Liga)",
+            "Brazil",
+            "Netherlands",
+            "Turkey"
+        ]
+    },
+    {
+        "q": "What did Scottish club Third Lanark AC use as corner flags during their 1902 financial crisis?",
+        "o": [
+            "Broken umbrella handles",
+            "Stolen traffic cones",
+            "Old ship masts",
+            "Their manager's collection of walking sticks"
+        ]
+    },
+    {
+        "q": "Which player was banned for 6 months in 1933 for allegedly using hypnotism on opponents?",
+        "o": [
+            "Matthias Sindelar (Austria)",
+            "Leonidas da Silva (Brazil)",
+            "Giuseppe Meazza (Italy)",
+            "Alex James (Scotland)"
+        ]
+    },
+    {
+        "q": "What unusual material was used to make the ball for the 1946 'Bread Basket Derby' in postwar Germany?",
+        "o": [
+            "Stitched together flour sacks",
+            "Compressed sawdust",
+            "Tied together rags",
+            "A hollowed-out pumpkin"
+        ]
+    },
+    {
+        "q": "Which club kept a live bear cub as their mascot but had to abandon it when it grew too large?",
+        "o": [
+            "Wisła Kraków (Poland)",
+            "Besiktas (Turkey)",
+            "CSKA Sofia (Bulgaria)",
+            "Partizan Belgrade (Serbia)"
+        ]
+    },
+    {
+        "q": "What did 1920s French club Red Star FC use as their first training cones?",
+        "o": [
+            "Empty wine bottles from local cafés",
+            "Stolen policeman's hats",
+            "Loaves of stale bread",
+            "Their manager's collection of bowler hats"
+        ]
+    },
+    {
+        "q": "Which country's FA once experimented with scented balls (lavender for home team, pine for away)?",
+        "o": [
+            "Switzerland (1951)",
+            "Portugal",
+            "Denmark",
+            "Hungary"
+        ]
+    },
+    {
+        "q": "Which club was forced to play a 1919 match using a stuffed armadillo as the ball after their equipment was confiscated by revolutionaries?",
+        "o": [
+            "Pécsi Munkás (Hungary)",
+            "Deportivo Paraguayo (Argentina)",
+            "FK Vojvodina (Serbia)",
+            "FC Armadillo (Mexico)"
+        ]
+    },
+    {
+        "q": "What did 1920s Austrian club FK Austria Wien use as goalposts during hyperinflation when they couldn't afford wood?",
+        "o": [
+            "Stacked piles of worthless banknotes",
+            "Disassembled tram tracks",
+            "Their manager's family furniture",
+            "Frozen sausages in winter"
+        ]
+    },
+    {
+        "q": "Which country's FA once required all players to submit dental records to prove their age?",
+        "o": [
+            "Chile (1935-1941)",
+            "Indonesia",
+            "Morocco",
+            "Finland"
+        ]
+    },
+    {
+        "q": "What unusual item did Italian legend Giuseppe Meazza keep in his shorts during matches?",
+        "o": [
+            "A silver whistle to argue with referees",
+            "A miniature portrait of Mussolini",
+            "A lucky chicken bone",
+            "His mother's rosary beads"
+        ]
+    },
+    {
+        "q": "Which club's 1880s rules stated that any player missing a penalty had to clean the team's boots for a month?",
+        "o": [
+            "Clapham Rovers (England)",
+            "Queen's Park FC (Scotland)",
+            "Le Havre AC (France)",
+            "Germania Hamburg (Germany)"
+        ]
+    },
+    {
+        "q": "What did Spanish club CD Logroñés use to mark their pitch during the Civil War when paint was unavailable?",
+        "o": [
+            "Blood from local slaughterhouses",
+            "Crushed red brick dust",
+            "Stolen Republican flags",
+            "Burned cork ashes"
+        ]
+    },
+    {
+        "q": "Which national team was once disqualified when their goalkeeper was revealed to be a wanted bank robber?",
+        "o": [
+            "Estonia (1924 Olympics)",
+            "Haiti",
+            "Cyprus",
+            "Iceland"
+        ]
+    },
+    {
+        "q": "What strange pre-match ritual did 1940s Romanian club Venus Bucharest perform?",
+        "o": [
+            "Players drank a glass of motor oil 'for strength'",
+            "Goalkeeper slept in the net overnight",
+            "Whole team walked backwards onto the pitch",
+            "Massaged each other with bear fat"
+        ]
+    },
+    {
+        "q": "Which country's league once awarded bonus points for 'most dramatic dive'?",
+        "o": [
+            "Greece (1933 Hellenic Football Association experiment)",
+            "Portugal",
+            "Brazil",
+            "Turkey"
+        ]
+    },
+    {
+        "q": "What did Scottish club Cowlairs FC use as corner flags during their 1893 financial crisis?",
+        "o": [
+            "Their wives' hatpins stuck in potatoes",
+            "Stolen police batons",
+            "Broken ship compasses",
+            "Dead rats on sticks"
+        ]
+    },
+    {
+        "q": "Which player was banned for a year in 1929 for allegedly using witchcraft to hex opponents?",
+        "o": [
+            "José Leandro Andrade (Uruguay)",
+            "Alex Villaplane (France)",
+            "Bernabé Ferreyra (Argentina)",
+            "Raimundo Orsi (Italy)"
+        ]
+    },
+    {
+        "q": "What unusual material was used to make the ball for the 1947 'Ashes Derby' in postwar Poland?",
+        "o": [
+            "Cremated human remains mixed with tar",
+            "Compressed coal dust",
+            "Woven strands of barbed wire",
+            "A hollowed-out human skull"
+        ]
+    },
+    {
+        "q": "Which club kept a live wolf as their mascot but had to stop when it ate the team cat?",
+        "o": [
+            "Ferencváros (Hungary)",
+            "Steaua București (Romania)",
+            "FK Crvena Zvezda (Serbia)",
+            "Wolves FC (England)"
+        ]
+    },
+    {
+        "q": "What did 1930s German club FC Nürnberg use as their first training cones?",
+        "o": [
+            "Empty mustard jars from local factories",
+            "Stolen traffic bollards",
+            "Loaves of black bread",
+            "Their physio's collection of prosthetic limbs"
+        ]
+    },
+    {
+        "q": "Which country's FA once experimented with flavored balls (garlic for home team, anise for away)?",
+        "o": [
+            "Bulgaria (1948)",
+            "Greece",
+            "Tunisia",
+            "Albania"
+        ]
+    },
+    {
+        "q": "Which club was forced to play a 1932 match using a frozen fish wrapped in leather after their ball was stolen by seagulls?",
+        "o": [
+            "Aberdeen FC (Scotland)",
+            "IK Start (Norway)",
+            "Hamburger SV (Germany)",
+            "Newell's Old Boys (Argentina)"
+        ]
+    },
+    {
+        "q": "What did 1920s Brazilian club Bonsucesso use as goalposts when their wooden ones were burned for fuel?",
+        "o": [
+            "Two towering stacks of coffee sacks",
+            "Salvaged ship masts from Guanabara Bay",
+            "Their manager's collection of antique wardrobes",
+            "Live banana trees planted in concrete"
+        ]
+    },
+    {
+        "q": "Which country's FA once required all players to submit fingerprint samples to prove they weren't professional criminals?",
+        "o": [
+            "Czechoslovakia (1925-1931)",
+            "Mexico",
+            "Yugoslavia",
+            "Romania"
+        ]
+    },
+    {
+        "q": "What unusual item did Spanish legend Ricardo Zamora keep in his goal for good luck?",
+        "o": [
+            "A loaded revolver (to 'intimidate attackers')",
+            "A bottle of brandy (for 'medical purposes')",
+            "A signed photo of King Alfonso XIII",
+            "A stolen street sign from his hometown"
+        ]
+    },
+    {
+        "q": "Which club's 1890s rules stated that any player scoring directly from a corner had to buy champagne for the opposing team?",
+        "o": [
+            "Royal Antwerp FC (Belgium)",
+            "Servette FC (Switzerland)",
+            "Corinthians FC (England)",
+            "Racing Club de France"
+        ]
+    },
+    {
+        "q": "What did Italian club Pro Vercelli use to mark their pitch during WWI when chalk was rationed?",
+        "o": [
+            "Crushed bones from local cemeteries",
+            "Powdered marble stolen from monuments",
+            "Ashes from nearby factories",
+            "White flour smuggled from Switzerland"
+        ]
+    },
+    {
+        "q": "Which national team was once disqualified when their center-forward was revealed to be a circus lion tamer?",
+        "o": [
+            "Bulgaria (1924 Olympics)",
+            "Egypt",
+            "Luxembourg",
+            "Peru"
+        ]
+    },
+    {
+        "q": "What strange pre-match ritual did 1930s Dutch club HFC Haarlem perform?",
+        "o": [
+            "Players rubbed herring oil on their boots",
+            "Goalkeeper stood barefoot in ice for 5 minutes",
+            "Whole team smoked clay pipes together",
+            "Ate exactly 17 raw peas each"
+        ]
+    },
+    {
+        "q": "Which country's league once awarded bonus points for 'most theatrical protest to a referee's decision'?",
+        "o": [
+            "Argentina (1943 Primera División experiment)",
+            "Italy",
+            "Spain",
+            "Brazil"
+        ]
+    },
+    {
+        "q": "What did Welsh club Druids FC use as corner flags during their 1887 financial crisis?",
+        "o": [
+            "Miners' pickaxes stuck in coal lumps",
+            "Stolen railway signal flags",
+            "Their chapel's collection of brass candlesticks",
+            "Dead seagulls on sticks"
+        ]
+    },
+    {
+        "q": "Which player was banned for 8 months in 1927 for allegedly using magnets in his boots to deflect the ball?",
+        "o": [
+            "György Orth (Hungary)",
+            "Adolfo Baloncieri (Italy)",
+            "Arsenio Erico (Paraguay)",
+            "Isidro Lángara (Spain)"
+        ]
+    },
+    {
+        "q": "What unusual material was used to make the ball for the 1945 'Coal Dust Derby' in postwar England?",
+        "o": [
+            "Compressed coal dust wrapped in ration book coupons",
+            "Stitched together gas mask filters",
+            "A pig's bladder coated in tar",
+            "A hollowed-out turnip"
+        ]
+    },
+    {
+        "q": "Which club kept a live badger as their mascot but had to stop when it dug up the pitch?",
+        "o": [
+            "Bury FC (England)",
+            "SK Rapid Wien (Austria)",
+            "FC Sochaux (France)",
+            "Wisła Kraków (Poland)"
+        ]
+    },
+    {
+        "q": "What did 1940s German club FC St. Pauli use as their first training cones during Allied occupation?",
+        "o": [
+            "Empty artillery shell casings",
+            "Broken beer bottles from local pubs",
+            "Stolen British army helmets",
+            "Their manager's collection of false teeth"
+        ]
+    },
+    {
+        "q": "Which country's FA once experimented with glow-in-the-dark balls for foggy conditions?",
+        "o": [
+            "Netherlands (1952)",
+            "England",
+            "Scotland",
+            "Denmark"
+        ]
+    },
+    {
+        "q": "Which club was forced to play a 1911 cup match using a rolled-up hedgehog after their ball was stolen by badgers?",
+        "o": [
+            "FC St. Gallen (Switzerland)",
+            "Forest Green Rovers (England)",
+            "FK Vojvodina (Serbia)",
+            "Spikes United (fictional)"
+        ]
+    },
+    {
+        "q": "What did 1923 French club SC Nînes use as goal nets when their regular nets were repossessed?",
+        "o": [
+            "Intertwined ladies' corsets",
+            "Stolen bicycle chains",
+            "Knitted together prison uniforms",
+            "Dangling strings of garlic"
+        ]
+    },
+    {
+        "q": "Which country's FA once required goalkeepers to pass a lie detector test about their true height?",
+        "o": [
+            "Portugal (1947-1952)",
+            "Brazil",
+            "Italy",
+            "Hungary"
+        ]
+    },
+    {
+        "q": "What unusual item did German legend Uwe Seeler keep in his sock during matches?",
+        "o": [
+            "A miniature dachshund figurine",
+            "His grandmother's dentures",
+            "A piece of the Berlin Wall",
+            "A smuggled bratwurst"
+        ]
+    },
+    {
+        "q": "Which club's 1870s rules stated that any player heading the ball had to recite a Shakespeare sonnet?",
+        "o": [
+            "Old Etonians (England)",
+            "Harrow Chequers FC",
+            "Cambridge University AFC",
+            "Oxford University AFC"
+        ]
+    },
+    {
+        "q": "What did 1940s Russian club Torpedo Moscow use to mark their pitch during winter?",
+        "o": [
+            "Gulag prisoners' urine (it melted cleaner lines in snow)",
+            "Crushed Stalin statues",
+            "Stolen German tank tracks",
+            "Burned archive documents"
+        ]
     }
 ]
